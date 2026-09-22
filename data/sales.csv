@@ -1,0 +1,1338 @@
+order_id,order_date,customer_id,product,category,region,quantity,unit_price,discount,revenue,cost,profit,salesperson
+1001,2026-01-02,C194,Cabinet,Furniture,South,3,495.71,0.0,1487.13,981.51,505.62,Ali
+1002,2026-01-20,C232,Bookshelf,Furniture,South,2,402.7,0.05,765.13,515.46,249.67,Bilal
+1003,2026-01-23,C265,Bookshelf,Furniture,East,3,393.02,0.0,1179.06,754.6,424.46,Ahmed
+1004,2026-01-26,C284,Monitor,Electronics,South,3,299.26,0.0,897.78,646.4,251.38,Sara
+1005,2026-01-25,C050,Phone,Electronics,South,2,704.04,0.05,1337.68,1041.98,295.7,Bilal
+1006,2026-01-26,C238,Laptop,Electronics,North,2,891.9,0.05,1694.61,1355.69,338.92,Sara
+1007,2026-01-06,C067,Cabinet,Furniture,South,2,492.96,0.05,936.62,650.71,285.91,Sara
+1008,2026-01-23,C251,Cabinet,Furniture,South,2,508.19,0.05,965.56,670.81,294.75,Fatima
+1009,2026-01-13,C254,Laptop,Electronics,East,3,885.31,0.0,2655.93,2018.51,637.42,Ayesha
+1010,2026-01-15,C202,Monitor,Electronics,North,3,304.02,0.0,912.06,656.68,255.38,Ahmed
+1011,2026-01-06,C297,Bookshelf,Furniture,South,3,406.45,0.0,1219.35,780.38,438.97,Ali
+1012,2026-01-21,C032,Stationery Kit,Office Supplies,North,3,98.47,0.0,295.41,147.7,147.71,Ayesha
+1013,2026-01-05,C004,Laptop,Electronics,East,3,906.59,0.0,2719.77,2067.03,652.74,Fatima
+1014,2026-01-06,C032,Desk,Furniture,North,2,610.25,0.05,1159.47,829.94,329.53,Ali
+1015,2026-01-08,C273,Laptop,Electronics,North,2,916.83,0.05,1741.98,1393.58,348.4,Ali
+1016,2026-01-07,C149,Monitor,Electronics,East,3,294.46,0.0,883.38,636.03,247.35,Sara
+1017,2026-01-24,C175,Chair,Furniture,East,3,254.37,0.0,763.11,473.13,289.98,Ahmed
+1018,2026-01-06,C055,Laptop,Electronics,South,3,883.99,0.0,2651.97,2015.5,636.47,Ayesha
+1019,2026-01-28,C285,Toner,Office Supplies,East,3,148.74,0.0,446.22,249.88,196.34,Ayesha
+1020,2026-01-25,C266,Toner,Office Supplies,South,2,150.29,0.05,285.55,168.32,117.23,Sara
+1021,2026-01-17,C275,Toner,Office Supplies,North,3,148.16,0.0,444.48,248.91,195.57,Fatima
+1022,2026-01-12,C245,Headphones,Electronics,South,2,120.44,0.05,228.84,156.57,72.27,Ayesha
+1023,2026-01-11,C098,Desk,Furniture,South,3,589.18,0.0,1767.54,1201.93,565.61,Bilal
+1024,2026-01-28,C193,Laptop,Electronics,North,3,892.75,0.0,2678.25,2035.47,642.78,Sara
+1025,2026-01-12,C222,Headphones,Electronics,East,3,122.27,0.0,366.81,238.43,128.38,Bilal
+1026,2026-01-18,C278,Bookshelf,Furniture,North,2,404.33,0.05,768.23,517.54,250.69,Bilal
+1027,2026-01-14,C032,Phone,Electronics,North,3,702.62,0.0,2107.86,1559.82,548.04,Ayesha
+1028,2026-01-16,C064,Monitor,Electronics,East,2,300.27,0.05,570.51,432.39,138.12,Fatima
+1029,2026-01-08,C169,Bookshelf,Furniture,North,3,407.63,0.0,1222.89,782.65,440.24,Sara
+1030,2026-01-06,C166,Monitor,Electronics,North,2,295.21,0.05,560.9,425.1,135.8,Ali
+1031,2026-01-16,C099,Cabinet,Furniture,North,3,496.05,0.0,1488.15,982.18,505.97,Ali
+1032,2026-01-21,C293,Bookshelf,Furniture,North,2,405.87,0.05,771.15,519.51,251.64,Ali
+1033,2026-01-12,C015,Phone,Electronics,North,2,705.03,0.05,1339.56,1043.44,296.12,Fatima
+1034,2026-01-19,C118,Bookshelf,Furniture,South,2,401.83,0.05,763.48,514.34,249.14,Fatima
+1035,2026-01-15,C132,Paper Box,Office Supplies,East,2,76.42,0.05,145.2,73.36,71.84,Ali
+1036,2026-01-18,C154,Stationery Kit,Office Supplies,South,2,101.27,0.05,192.41,101.27,91.14,Sara
+1037,2026-01-15,C082,Printer,Office Supplies,South,2,299.36,0.05,568.78,371.21,197.57,Sara
+1038,2026-01-14,C129,Desk,Furniture,East,3,589.38,0.0,1768.14,1202.34,565.8,Sara
+1039,2026-01-27,C137,Headphones,Electronics,East,2,117.7,0.05,223.63,153.01,70.62,Ahmed
+1040,2026-01-05,C190,Printer,Office Supplies,North,2,295.03,0.05,560.56,365.84,194.72,Fatima
+1041,2026-01-01,C195,Monitor,Electronics,North,3,299.98,0.0,899.94,647.96,251.98,Ahmed
+1042,2026-01-03,C069,Laptop,Electronics,North,2,897.57,0.05,1705.38,1364.31,341.07,Sara
+1043,2026-01-27,C249,Phone,Electronics,North,3,705.43,0.0,2116.29,1566.05,550.24,Ayesha
+1044,2026-01-11,C294,Chair,Furniture,East,2,249.88,0.05,474.77,309.85,164.92,Sara
+1045,2026-01-17,C007,Monitor,Electronics,South,2,304.77,0.05,579.06,438.87,140.19,Fatima
+1046,2026-01-19,C144,Chair,Furniture,North,2,251.89,0.05,478.59,312.34,166.25,Ayesha
+1047,2026-01-23,C253,Chair,Furniture,North,2,254.65,0.05,483.83,315.77,168.06,Ayesha
+1048,2026-01-05,C125,Phone,Electronics,North,3,710.76,0.0,2132.28,1577.89,554.39,Bilal
+1049,2026-01-22,C249,Phone,Electronics,East,3,711.88,0.0,2135.64,1580.37,555.27,Fatima
+1050,2026-01-24,C298,Cabinet,Furniture,East,2,497.79,0.05,945.8,657.08,288.72,Bilal
+1051,2026-01-13,C133,Printer,Office Supplies,East,3,297.06,0.0,891.18,552.53,338.65,Bilal
+1052,2026-01-02,C164,Desk,Furniture,North,2,588.31,0.05,1117.79,800.1,317.69,Ayesha
+1053,2026-01-14,C008,Cabinet,Furniture,East,3,494.2,0.0,1482.6,978.52,504.08,Bilal
+1054,2026-01-03,C023,Laptop,Electronics,North,3,887.4,0.0,2662.2,2023.27,638.93,Ahmed
+1055,2026-01-26,C037,Bookshelf,Furniture,North,2,392.84,0.05,746.4,502.84,243.56,Ali
+1056,2026-01-13,C133,Laptop,Electronics,North,2,896.1,0.05,1702.59,1362.07,340.52,Fatima
+1057,2026-01-08,C053,Laptop,Electronics,South,3,888.74,0.0,2666.22,2026.33,639.89,Ahmed
+1058,2026-01-23,C211,Headphones,Electronics,East,3,118.14,0.0,354.42,230.37,124.05,Fatima
+1059,2026-01-10,C012,Bookshelf,Furniture,North,3,404.7,0.0,1214.1,777.02,437.08,Fatima
+1060,2026-01-12,C094,Cabinet,Furniture,East,2,500.47,0.05,950.89,660.62,290.27,Bilal
+1061,2026-01-07,C220,Toner,Office Supplies,North,2,147.63,0.05,280.5,165.35,115.15,Ali
+1062,2026-01-08,C099,Phone,Electronics,North,3,707.72,0.0,2123.16,1571.14,552.02,Bilal
+1063,2026-01-27,C112,Paper Box,Office Supplies,North,2,76.4,0.05,145.16,73.34,71.82,Ali
+1064,2026-01-06,C037,Bookshelf,Furniture,South,3,399.31,0.0,1197.93,766.68,431.25,Ayesha
+1065,2026-01-18,C184,Headphones,Electronics,North,3,121.28,0.0,363.84,236.5,127.34,Ahmed
+1066,2026-01-24,C110,Cabinet,Furniture,South,2,491.19,0.05,933.26,648.37,284.89,Ayesha
+1067,2026-01-10,C025,Monitor,Electronics,North,3,299.48,0.0,898.44,646.88,251.56,Sara
+1068,2026-01-17,C099,Desk,Furniture,North,2,588.24,0.05,1117.66,800.01,317.65,Ahmed
+1069,2026-01-16,C212,Desk,Furniture,South,2,611.57,0.05,1161.98,831.74,330.24,Ali
+1070,2026-01-02,C019,Chair,Furniture,South,3,250.55,0.0,751.65,466.02,285.63,Ayesha
+1071,2026-01-08,C238,Phone,Electronics,East,2,694.91,0.05,1320.33,1028.47,291.86,Ahmed
+1072,2026-01-02,C084,Chair,Furniture,South,2,245.99,0.05,467.38,305.03,162.35,Ali
+1073,2026-01-16,C268,Cabinet,Furniture,East,3,509.24,0.0,1527.72,1008.3,519.42,Ali
+1074,2026-01-26,C122,Chair,Furniture,East,3,249.51,0.0,748.53,464.09,284.44,Sara
+1075,2026-01-25,C277,Headphones,Electronics,North,2,119.45,0.05,226.95,155.28,71.67,Ayesha
+1076,2026-01-12,C238,Bookshelf,Furniture,North,3,401.01,0.0,1203.03,769.94,433.09,Ayesha
+1077,2026-01-24,C142,Paper Box,Office Supplies,South,3,73.63,0.0,220.89,106.03,114.86,Sara
+1078,2026-01-10,C077,Paper Box,Office Supplies,North,3,75.32,0.0,225.96,108.46,117.5,Fatima
+1079,2026-01-16,C184,Cabinet,Furniture,North,2,498.81,0.05,947.74,658.43,289.31,Fatima
+1080,2026-01-27,C193,Bookshelf,Furniture,North,2,395.34,0.05,751.15,506.04,245.11,Ayesha
+1081,2026-01-03,C278,Chair,Furniture,East,3,247.27,0.0,741.81,459.92,281.89,Ahmed
+1082,2026-01-15,C078,Phone,Electronics,North,3,697.38,0.0,2092.14,1548.18,543.96,Ahmed
+1083,2026-01-16,C172,Laptop,Electronics,East,2,902.24,0.05,1714.26,1371.4,342.86,Bilal
+1084,2026-01-01,C196,Laptop,Electronics,North,2,888.76,0.05,1688.64,1350.92,337.72,Bilal
+1085,2026-01-23,C042,Printer,Office Supplies,South,2,303.89,0.05,577.39,376.82,200.57,Fatima
+1086,2026-01-27,C220,Laptop,Electronics,North,3,905.67,0.0,2717.01,2064.93,652.08,Ali
+1087,2026-01-11,C213,Monitor,Electronics,South,2,302.42,0.05,574.6,435.48,139.12,Ahmed
+1088,2026-01-22,C141,Bookshelf,Furniture,South,2,394.96,0.05,750.42,505.55,244.87,Ayesha
+1089,2026-01-08,C029,Phone,Electronics,North,2,689.0,0.05,1309.1,1019.72,289.38,Ahmed
+1090,2026-01-23,C257,Laptop,Electronics,South,2,903.6,0.05,1716.84,1373.47,343.37,Sara
+1091,2026-01-18,C087,Headphones,Electronics,East,2,119.55,0.05,227.14,155.41,71.73,Sara
+1092,2026-01-20,C048,Monitor,Electronics,East,2,302.31,0.05,574.39,435.33,139.06,Fatima
+1093,2026-01-23,C029,Desk,Furniture,South,2,595.64,0.05,1131.72,810.07,321.65,Ali
+1094,2026-01-13,C083,Phone,Electronics,South,2,699.19,0.05,1328.46,1034.8,293.66,Bilal
+1095,2026-01-23,C084,Monitor,Electronics,North,3,301.36,0.0,904.08,650.94,253.14,Fatima
+1096,2026-01-26,C147,Monitor,Electronics,North,2,304.71,,578.95,438.78,140.17,Ayesha
+1097,2026-01-11,C023,Desk,Furniture,North,3,607.86,0.0,1823.58,1240.03,583.55,Ahmed
+1098,2026-01-05,C246,Desk,Furniture,South,3,598.7,0.0,1796.1,1221.35,574.75,Ali
+1099,2026-01-07,C137,Phone,Electronics,North,3,688.93,0.0,2066.79,1529.42,537.37,Ali
+1100,2026-01-26,C121,Laptop,Electronics,East,2,891.42,0.05,1693.7,1354.96,338.74,Ali
+1101,2026-01-02,C046,Paper Box,Office Supplies,South,2,76.15,0.05,144.69,73.1,71.59,Ali
+1102,2026-01-06,C073,Headphones,Electronics,East,2,120.5,0.05,228.95,156.65,72.3,Ayesha
+1103,2026-01-27,C130,Desk,Furniture,South,2,590.65,0.05,1122.23,803.28,318.95,Ayesha
+1104,2026-01-12,C271,Paper Box,Office Supplies,North,3,75.18,0.0,225.54,108.26,117.28,Ali
+1105,2026-01-22,C248,Stationery Kit,Office Supplies,North,2,101.87,0.05,193.55,101.87,91.68,Ahmed
+1106,2026-01-14,C126,Paper Box,Office Supplies,East,3,74.72,0.0,224.16,107.6,116.56,Fatima
+1107,2026-01-01,C010,Desk,Furniture,South,3,595.11,0.0,1785.33,1214.02,571.31,Sara
+1108,2026-01-13,C118,Chair,Furniture,North,3,250.74,0.0,752.22,466.38,285.84,Ahmed
+1109,2026-01-22,C253,Stationery Kit,Office Supplies,East,3,98.82,0.0,296.46,148.23,148.23,Ali
+1110,2026-01-20,C210,Headphones,Electronics,South,3,118.47,0.0,355.41,231.02,124.39,Ayesha
+1111,2026-01-27,C049,Headphones,Electronics,South,3,121.6,0.0,364.8,237.12,127.68,Ayesha
+1112,2026-01-20,C096,Paper Box,Office Supplies,South,2,75.88,0.05,144.17,72.84,71.33,Fatima
+1113,2026-01-16,C233,Chair,Furniture,East,2,252.5,0.05,479.75,313.1,166.65,Sara
+1114,2026-01-28,C131,Phone,Electronics,East,2,700.46,0.05,1330.87,1036.68,294.19,Ayesha
+1115,2026-01-05,C095,Cabinet,Furniture,South,3,490.14,0.0,1470.42,970.48,499.94,Fatima
+1116,2026-01-07,C206,Printer,Office Supplies,North,2,301.45,0.05,572.75,373.8,198.95,Bilal
+1117,2026-01-04,C244,Laptop,Electronics,South,3,908.23,0.0,2724.69,2070.76,653.93,Ahmed
+1118,2026-01-18,C198,Laptop,Electronics,South,2,897.22,0.05,1704.72,1363.77,340.95,Bilal
+1119,2026-01-08,C146,Phone,Electronics,North,3,709.78,0.0,2129.34,1575.71,553.63,Sara
+1120,2026-01-24,C079,Headphones,Electronics,North,3,118.54,0.0,355.62,231.15,124.47,Bilal
+1121,2026-01-01,C073,Chair,Furniture,East,2,250.04,0.05,475.08,310.05,165.03,Ayesha
+1122,2026-01-17,C077,Monitor,Electronics,East,2,303.95,0.05,577.5,437.69,139.81,Ayesha
+1123,2026-01-12,C061,Printer,Office Supplies,North,3,298.63,0.0,895.89,555.45,340.44,Fatima
+1124,2026-01-27,C223,Cabinet,Furniture,North,2,502.27,0.05,954.31,663.0,291.31,Bilal
+1125,2026-01-27,C044,Headphones,Electronics,North,2,118.42,0.05,225.0,153.95,71.05,Sara
+1126,2026-01-07,C070,Printer,Office Supplies,East,3,303.66,0.0,910.98,564.81,346.17,Ali
+1127,2026-01-28,C282,Stationery Kit,Office Supplies,East,2,99.03,0.05,188.16,99.03,89.13,Ali
+1128,2026-01-05,C276,Stationery Kit,Office Supplies,South,3,99.86,0.0,299.58,149.79,149.79,Fatima
+1129,2026-01-08,C154,Toner,Office Supplies,South,2,151.28,0.05,287.43,169.43,118.0,Fatima
+1130,2026-01-02,C247,Stationery Kit,Office Supplies,South,2,100.68,0.05,191.29,100.68,90.61,Sara
+1131,2026-01-03,C078,Monitor,Electronics,South,3,298.07,0.0,894.21,643.83,250.38,Ahmed
+1132,2026-01-22,C165,Laptop,Electronics,North,2,911.31,0.05,1731.49,1385.19,346.3,Ahmed
+1133,2026-01-10,C043,Printer,Office Supplies,North,3,300.56,0.0,901.68,559.04,342.64,Bilal
+1134,2026-01-27,C198,Chair,Furniture,South,3,250.07,0.0,750.21,465.13,285.08,Ayesha
+1135,2026-01-03,C020,Toner,Office Supplies,South,3,147.02,0.0,441.06,246.99,194.07,Ayesha
+1136,2026-01-28,C270,Monitor,Electronics,East,2,304.35,0.05,578.26,438.26,140.0,Bilal
+1137,2026-01-25,C133,Phone,Electronics,East,2,691.65,0.05,1314.13,1023.64,290.49,Bilal
+1138,2026-01-05,C256,Desk,Furniture,South,2,589.01,0.05,1119.12,801.05,318.07,Bilal
+1139,2026-01-25,C030,Laptop,Electronics,East,3,906.09,0.0,2718.27,2065.89,652.38,Fatima
+1140,2026-01-27,C265,Desk,Furniture,South,3,606.83,0.0,1820.49,1237.93,582.56,Bilal
+1141,2026-01-25,C214,Phone,Electronics,North,2,695.69,0.05,1321.81,1029.62,292.19,Ali
+1142,2026-01-22,C025,Phone,Electronics,North,3,700.31,0.0,2100.93,1554.69,546.24,Fatima
+1143,2026-01-02,C141,Chair,Furniture,East,2,251.17,0.05,477.22,311.45,165.77,Ahmed
+1144,2026-01-23,C031,Monitor,Electronics,South,3,296.59,0.0,889.77,640.63,249.14,Ali
+1145,2026-01-12,C211,Laptop,Electronics,North,3,904.79,0.0,2714.37,2062.92,651.45,Fatima
+1146,2026-01-22,C005,Cabinet,Furniture,East,3,497.32,0.0,1491.96,984.69,507.27,Sara
+1147,2026-01-17,C034,Phone,Electronics,South,2,710.95,0.05,1350.81,1052.21,298.6,Ali
+1148,2026-01-26,C170,Desk,Furniture,North,3,595.12,0.0,1785.36,1214.04,571.32,Fatima
+1149,2026-01-20,C033,Chair,Furniture,South,3,251.2,0.0,753.6,467.23,286.37,Ali
+1150,2026-01-17,C119,Toner,Office Supplies,South,2,152.44,0.05,289.64,170.73,118.91,Sara
+1151,2026-02-26,C130,Toner,Office Supplies,South,3,150.3,0.05,428.36,252.5,175.86,Ayesha
+1152,2026-02-10,C123,Monitor,Electronics,East,2,297.71,0.0,595.42,428.7,166.72,Sara
+1153,2026-02-20,C024,Phone,Electronics,South,3,708.03,0.05,2017.89,1571.83,446.06,Bilal
+1154,2026-02-17,C105,Chair,Furniture,East,2,248.1,0.0,496.2,307.64,188.56,Sara
+1155,2026-02-10,C025,Laptop,Electronics,North,3,894.47,0.05,2549.24,2039.39,509.85,Sara
+1156,2026-02-28,C158,Monitor,Electronics,South,10,305.76,0.0,3057.6,2201.47,856.13,Fatima
+1157,2026-02-11,C109,Bookshelf,Furniture,East,2,396.7,0.0,793.4,507.78,285.62,Sara
+1158,2026-02-14,C120,Headphones,Electronics,East,2,118.43,0.0,236.86,153.96,82.9,Sara
+1159,2026-02-01,C296,Printer,Office Supplies,South,2,296.8,0.0,593.6,368.03,225.57,Sara
+1160,2026-02-09,C074,Phone,Electronics,North,2,699.86,0.0,1399.72,1035.79,363.93,Fatima
+1161,2026-02-17,C225,Desk,Furniture,South,2,592.45,0.0,1184.9,805.73,379.17,Ali
+1162,2026-02-01,C129,Printer,Office Supplies,North,3,296.82,0.05,845.94,552.09,293.85,Ali
+1163,2026-02-27,C133,Toner,Office Supplies,North,3,148.55,0.05,423.37,249.56,173.81,Fatima
+1164,2026-02-01,C110,Chair,Furniture,East,3,250.54,0.05,714.04,466.0,248.04,Fatima
+1165,2026-02-07,C292,Paper Box,Office Supplies,South,2,76.32,0.0,152.64,73.27,79.37,Fatima
+1166,2026-02-18,C198,Stationery Kit,Office Supplies,South,2,100.94,0.0,201.88,100.94,100.94,Sara
+1167,2026-02-26,C064,Bookshelf,Furniture,South,2,404.31,0.0,808.62,517.52,291.1,Ahmed
+1168,2026-02-04,C235,Cabinet,Furniture,South,3,509.68,0.05,1452.59,1009.17,443.42,Ayesha
+1169,2026-02-23,C048,Phone,Electronics,East,2,697.05,0.0,1394.1,1031.63,362.47,Ali
+1170,2026-02-07,C138,Laptop,Electronics,South,3,909.3,0.05,2591.5,2073.2,518.3,Bilal
+1171,2026-02-15,C261,Cabinet,Furniture,East,2,492.93,0.0,985.86,650.67,335.19,Bilal
+1172,2026-02-18,C103,Bookshelf,Furniture,South,3,398.7,0.05,1136.29,765.5,370.79,Fatima
+1173,2026-02-27,C246,Toner,Office Supplies,East,3,152.26,0.05,433.94,255.8,178.14,Ayesha
+1174,2026-02-13,C050,Monitor,Electronics,South,3,299.89,0.05,854.69,647.76,206.93,Ahmed
+1175,2026-02-20,C060,Cabinet,Furniture,South,2,498.0,,996.0,657.36,338.64,Fatima
+1176,2026-02-23,C235,Laptop,Electronics,East,3,915.45,0.05,2609.03,2087.23,521.8,Ayesha
+1177,2026-02-06,C263,Cabinet,Furniture,South,2,506.58,0.0,1013.16,668.69,344.47,Ahmed
+1178,2026-02-14,C015,Printer,Office Supplies,East,2,300.11,0.0,600.22,372.14,228.08,Fatima
+1179,2026-02-16,C217,Paper Box,Office Supplies,North,3,73.71,0.05,210.07,106.14,103.93,Ali
+1180,2026-02-16,C198,Laptop,Electronics,East,2,903.4,0.0,1806.8,1373.17,433.63,Bilal
+1181,2026-02-25,C221,Bookshelf,Furniture,South,2,406.04,0.0,812.08,519.73,292.35,Fatima
+1182,2026-02-02,C163,Headphones,Electronics,South,3,118.3,0.05,337.15,230.69,106.46,Bilal
+1183,2026-02-27,C033,Laptop,Electronics,North,2,904.3,0.0,1808.6,1374.54,434.06,Sara
+1184,2026-02-16,C158,Laptop,Electronics,North,3,912.79,0.05,2601.45,2081.16,520.29,Ahmed
+1185,2026-02-14,C229,Printer,Office Supplies,North,2,297.59,0.0,595.18,369.01,226.17,Ali
+1186,2026-02-07,C172,Monitor,Electronics,South,2,297.82,0.0,595.64,428.86,166.78,Bilal
+1187,2026-02-15,C237,Laptop,Electronics,North,2,905.68,0.0,1811.36,1376.63,434.73,Ahmed
+1188,2026-02-10,C087,Desk,Furniture,South,2,603.09,0.0,1206.18,820.2,385.98,Ayesha
+1189,2026-02-26,C125,Bookshelf,Furniture,North,3,395.18,0.05,1126.26,758.75,367.51,Ahmed
+1190,2026-02-22,C265,Toner,Office Supplies,East,2,149.71,0.0,299.42,167.68,131.74,Fatima
+1191,2026-02-05,C153,Headphones,Electronics,East,3,118.75,0.05,338.44,231.56,106.88,Fatima
+1192,2026-02-01,C198,Headphones,Electronics,North,3,119.22,0.05,339.78,232.48,107.3,Fatima
+1193,2026-02-05,C177,Bookshelf,Furniture,North,2,392.22,0.0,784.44,502.04,282.4,Ayesha
+1194,2026-02-06,C042,Toner,Office Supplies,North,2,151.2,0.0,302.4,169.34,133.06,Bilal
+1195,2026-02-13,C136,Paper Box,Office Supplies,South,2,75.08,0.0,150.16,72.08,78.08,Ahmed
+1196,2026-02-05,C202,Chair,Furniture,North,3,246.52,0.05,702.58,458.53,244.05,Ahmed
+1197,2026-02-05,C183,Laptop,Electronics,North,3,890.97,0.05,2539.26,2031.41,507.85,Sara
+1198,2026-02-10,C057,Printer,Office Supplies,East,3,297.01,0.05,846.48,552.44,294.04,Ali
+1199,2026-02-14,C017,Laptop,Electronics,North,2,899.86,0.0,1799.72,1367.79,431.93,Fatima
+1200,2026-02-11,C119,Laptop,Electronics,North,3,888.73,0.05,2532.88,2026.3,506.58,Bilal
+1201,2026-02-09,C104,Printer,Office Supplies,South,3,296.77,0.05,845.79,551.99,293.8,Ahmed
+1202,2026-02-12,C076,Chair,Furniture,South,3,248.75,0.05,708.94,462.68,246.26,Bilal
+1203,2026-02-07,C192,Headphones,Electronics,North,2,121.66,0.0,243.32,158.16,85.16,Ahmed
+1204,2026-02-28,C235,Paper Box,Office Supplies,North,3,76.29,0.05,217.43,109.86,107.57,Fatima
+1205,2026-02-13,C282,Headphones,Electronics,North,3,122.07,0.05,347.9,238.04,109.86,Ahmed
+1206,2026-02-15,C236,Laptop,Electronics,North,2,905.86,0.0,1811.72,1376.91,434.81,Bilal
+1207,2026-02-05,C300,Cabinet,Furniture,North,3,495.11,0.05,1411.06,980.32,430.74,Sara
+1208,2026-02-01,C075,Chair,Furniture,North,3,246.0,0.05,701.1,457.56,243.54,Ahmed
+1209,2026-02-05,C224,Toner,Office Supplies,North,2,147.8,0.0,295.6,165.54,130.06,Fatima
+1210,2026-02-07,C102,Monitor,Electronics,North,3,301.73,0.05,859.93,651.74,208.19,Ali
+1211,2026-02-19,C152,Monitor,Electronics,South,3,304.9,0.05,868.96,658.58,210.38,Ahmed
+1212,2026-02-02,C162,Desk,Furniture,North,3,611.66,0.05,1743.23,1247.79,495.44,Ali
+1213,2026-02-03,C016,Monitor,Electronics,East,3,298.33,0.05,850.24,644.39,205.85,Ali
+1214,2026-02-21,C176,Desk,Furniture,North,2,604.9,0.0,1209.8,822.66,387.14,Ali
+1215,2026-02-08,C276,Bookshelf,Furniture,South,3,393.5,0.05,1121.47,755.52,365.95,Fatima
+1216,2026-02-16,C027,Laptop,Electronics,South,2,886.03,0.0,1772.06,1346.77,425.29,Ahmed
+1217,2026-02-22,C045,Monitor,Electronics,South,2,298.78,0.0,597.56,430.24,167.32,Sara
+1218,2026-02-11,C068,Phone,Electronics,North,2,712.52,0.0,1425.04,1054.53,370.51,Sara
+1219,2026-02-12,C260,Stationery Kit,Office Supplies,North,2,100.68,0.0,201.36,100.68,100.68,Fatima
+1220,2026-02-15,C076,Toner,Office Supplies,East,2,152.55,0.0,305.1,170.86,134.24,Ali
+1221,2026-02-21,C281,Paper Box,Office Supplies,North,2,74.76,0.0,149.52,71.77,77.75,Ayesha
+1222,2026-02-28,C299,Monitor,Electronics,North,3,301.43,0.05,859.08,651.09,207.99,Fatima
+1223,2026-02-25,C082,Monitor,Electronics,East,2,300.16,0.0,600.32,432.23,168.09,Bilal
+1224,2026-02-15,C233,Stationery Kit,Office Supplies,North,3,100.77,0.05,287.19,151.16,136.03,Bilal
+1225,2026-02-11,C034,Monitor,Electronics,South,2,302.13,0.0,604.26,435.07,169.19,Bilal
+1226,2026-02-12,C259,Cabinet,Furniture,North,3,501.84,0.05,1430.24,993.64,436.6,Sara
+1227,2026-02-19,C259,Bookshelf,Furniture,East,3,396.76,0.05,1130.77,761.78,368.99,Ali
+1228,2026-02-01,C230,Cabinet,Furniture,South,2,509.86,0.0,1019.72,673.02,346.7,Fatima
+1229,2026-02-28,C006,Phone,Electronics,East,3,712.09,0.05,2029.46,1580.84,448.62,Sara
+1230,2026-02-26,C175,Monitor,Electronics,North,3,296.29,0.05,844.43,639.99,204.44,Ahmed
+1231,2026-02-10,C056,Desk,Furniture,North,2,594.01,0.0,1188.02,807.85,380.17,Sara
+1232,2026-02-09,C170,Bookshelf,Furniture,North,3,393.74,0.05,1122.16,755.98,366.18,Fatima
+1233,2026-02-16,C057,Phone,Electronics,South,3,709.76,0.05,2022.82,1575.67,447.15,Ali
+1234,2026-02-23,C261,Monitor,Electronics,East,3,300.48,0.05,856.37,649.04,207.33,Fatima
+1235,2026-02-28,C090,Laptop,Electronics,East,3,911.58,0.05,2598.0,2078.4,519.6,Ahmed
+1236,2026-02-17,C023,Phone,Electronics,North,2,703.05,0.0,1406.1,1040.51,365.59,Ayesha
+1237,2026-02-11,C281,Phone,Electronics,South,2,712.15,0.0,1424.3,1053.98,370.32,Fatima
+1238,2026-02-06,C026,Laptop,Electronics,South,3,916.14,0.05,2611.0,2088.8,522.2,Ahmed
+1239,2026-02-28,C200,Headphones,Electronics,North,2,118.38,0.0,236.76,153.89,82.87,Sara
+1240,2026-02-04,C057,Desk,Furniture,South,3,593.81,0.05,1692.36,1211.37,480.99,Sara
+1241,2026-02-16,C231,Cabinet,Furniture,South,2,494.21,0.0,988.42,652.36,336.06,Bilal
+1242,2026-02-19,C103,Laptop,Electronics,North,3,909.93,0.05,2593.3,2074.64,518.66,Ayesha
+1243,2026-02-08,C261,Chair,Furniture,North,3,250.47,0.05,713.84,465.87,247.97,Ahmed
+1244,2026-02-07,C180,Bookshelf,Furniture,North,2,402.26,0.0,804.52,514.89,289.63,Fatima
+1245,2026-02-05,C098,Bookshelf,Furniture,East,2,401.86,0.0,803.72,514.38,289.34,Sara
+1246,2026-02-26,C268,Phone,Electronics,South,2,708.02,0.0,1416.04,1047.87,368.17,Bilal
+1247,2026-02-28,C217,Desk,Furniture,North,2,590.97,0.0,1181.94,803.72,378.22,Ali
+1248,2026-02-18,C243,Desk,Furniture,South,3,597.66,0.05,1703.33,1219.23,484.1,Bilal
+1249,2026-02-08,C094,Chair,Furniture,East,2,250.7,0.0,501.4,310.87,190.53,Sara
+1250,2026-02-21,C133,Phone,Electronics,North,3,707.55,0.05,2016.52,1570.76,445.76,Ali
+1251,2026-02-14,C197,Phone,Electronics,East,3,704.85,0.05,2008.82,1564.77,444.05,Ali
+1252,2026-02-28,C187,Cabinet,Furniture,South,2,498.33,0.0,996.66,657.8,338.86,Fatima
+1253,2026-02-15,C074,Laptop,Electronics,East,3,903.68,0.05,2575.49,2060.39,515.1,Ayesha
+1254,2026-02-26,C063,Chair,Furniture,North,2,251.29,0.0,502.58,311.6,190.98,Ayesha
+1255,2026-02-20,C132,Bookshelf,Furniture,South,2,401.04,0.0,802.08,513.33,288.75,Ahmed
+1256,2026-02-11,C069,Headphones,Electronics,North,2,120.72,0.0,241.44,156.94,84.5,Ahmed
+1257,2026-02-13,C136,Desk,Furniture,South,3,590.04,0.05,1681.61,1203.68,477.93,Ali
+1258,2026-02-27,C012,Paper Box,Office Supplies,East,3,74.46,0.05,212.21,107.22,104.99,Bilal
+1259,2026-02-02,C049,Paper Box,Office Supplies,South,2,73.97,0.0,147.94,71.01,76.93,Ahmed
+1260,2026-02-22,C241,Stationery Kit,Office Supplies,North,3,100.36,0.05,286.03,150.54,135.49,Ayesha
+1261,2026-02-10,C298,Phone,Electronics,East,3,711.28,0.05,2027.15,1579.04,448.11,Ali
+1262,2026-02-09,C188,Printer,Office Supplies,North,2,296.53,0.0,593.06,367.7,225.36,Bilal
+1263,2026-02-25,C156,Cabinet,Furniture,East,3,500.71,0.05,1427.02,991.41,435.61,Ayesha
+1264,2026-02-07,C113,Laptop,Electronics,East,2,906.1,0.0,1812.2,1377.27,434.93,Ali
+1265,2026-02-14,C270,Phone,Electronics,East,2,710.12,,1420.24,1050.98,369.26,Sara
+1266,2026-02-01,C189,Laptop,Electronics,North,2,889.37,0.0,1778.74,1351.84,426.9,Sara
+1267,2026-02-04,C142,Paper Box,Office Supplies,South,3,74.38,0.05,211.98,107.11,104.87,Ahmed
+1268,2026-02-09,C125,Monitor,Electronics,South,2,301.11,0.0,602.22,433.6,168.62,Ayesha
+1269,2026-02-28,C054,Phone,Electronics,North,3,694.52,0.05,1979.38,1541.83,437.55,Sara
+1270,2026-02-22,C102,Chair,Furniture,South,3,250.28,0.05,713.3,465.52,247.78,Ayesha
+1271,2026-02-12,C194,Cabinet,Furniture,North,3,492.02,0.05,1402.26,974.2,428.06,Sara
+1272,2026-02-28,C082,Desk,Furniture,North,2,589.33,0.0,1178.66,801.49,377.17,Sara
+1273,2026-02-18,C141,Headphones,Electronics,North,2,121.9,0.0,243.8,158.47,85.33,Ali
+1274,2026-02-05,C066,Chair,Furniture,North,2,248.93,0.0,497.86,308.67,189.19,Sara
+1275,2026-02-06,C151,Phone,Electronics,East,3,687.25,0.05,1958.66,1525.69,432.97,Ali
+1276,2026-02-22,C055,Desk,Furniture,South,2,608.54,0.0,1217.08,827.61,389.47,Sara
+1277,2026-02-24,C244,Desk,Furniture,East,3,611.09,0.05,1741.61,1246.62,494.99,Ayesha
+1278,2026-02-21,C225,Monitor,Electronics,North,2,305.85,0.0,611.7,440.42,171.28,Ahmed
+1279,2026-02-18,C263,Stationery Kit,Office Supplies,South,2,98.53,0.0,197.06,98.53,98.53,Ayesha
+1280,2026-02-12,C189,Headphones,Electronics,South,2,120.87,0.0,241.74,157.13,84.61,Fatima
+1281,2026-02-26,C290,Phone,Electronics,East,2,700.96,0.0,1401.92,1037.42,364.5,Sara
+1282,2026-02-12,C065,Laptop,Electronics,East,2,892.16,0.0,1784.32,1356.08,428.24,Fatima
+1283,2026-02-14,C232,Chair,Furniture,South,2,247.59,0.0,495.18,307.01,188.17,Ahmed
+1284,2026-02-15,C231,Chair,Furniture,South,2,249.29,0.0,498.58,309.12,189.46,Ayesha
+1285,2026-02-12,C241,Stationery Kit,Office Supplies,East,3,100.75,0.05,287.14,151.12,136.02,Bilal
+1286,2026-02-27,C192,Headphones,Electronics,North,3,120.78,0.05,344.22,235.52,108.7,Fatima
+1287,2026-02-12,C287,Monitor,Electronics,South,3,301.13,0.05,858.22,650.44,207.78,Fatima
+1288,2026-02-12,C214,Bookshelf,Furniture,East,3,407.79,0.05,1162.2,782.96,379.24,Ali
+1289,2026-02-05,C042,Phone,Electronics,South,2,688.85,0.0,1377.7,1019.5,358.2,Sara
+1290,2026-02-11,C296,Phone,Electronics,East,3,709.66,0.05,2022.53,1575.45,447.08,Ali
+1291,2026-02-08,C164,Stationery Kit,Office Supplies,North,2,100.81,0.0,201.62,100.81,100.81,Ahmed
+1292,2026-02-04,C265,Cabinet,Furniture,North,2,500.94,0.0,1001.88,661.24,340.64,Sara
+1293,2026-02-11,C092,Desk,Furniture,North,3,593.2,0.05,1690.62,1210.13,480.49,Sara
+1294,2026-02-26,C230,Chair,Furniture,East,3,251.31,0.05,716.23,467.44,248.79,Ahmed
+1295,2026-02-07,C035,Chair,Furniture,North,2,247.27,0.0,494.54,306.61,187.93,Fatima
+1296,2026-02-22,C228,Desk,Furniture,South,3,602.73,0.05,1717.78,1229.57,488.21,Fatima
+1297,2026-02-18,C214,Headphones,Electronics,South,3,120.19,0.05,342.54,234.37,108.17,Ayesha
+1298,2026-02-01,C061,Laptop,Electronics,North,2,898.15,0.0,1796.3,1365.19,431.11,Fatima
+1299,2026-02-09,C064,Cabinet,Furniture,East,3,492.05,0.05,1402.34,974.26,428.08,Fatima
+1300,2026-02-23,C040,Printer,Office Supplies,East,3,301.18,0.05,858.36,560.19,298.17,Bilal
+1301,2026-03-10,C074,Desk,Furniture,South,2,594.0,0.05,1128.6,807.84,320.76,Ali
+1302,2026-03-07,C064,Phone,Electronics,South,3,708.06,0.0,2124.18,1571.89,552.29,Ali
+1303,2026-03-19,C076,Desk,Furniture,North,2,608.69,0.05,1156.51,827.82,328.69,Ayesha
+1304,2026-03-21,C182,Bookshelf,Furniture,North,3,393.53,0.0,1180.59,755.58,425.01,Ali
+1305,2026-03-12,C099,Stationery Kit,Office Supplies,North,2,98.07,0.05,186.33,98.07,88.26,Ayesha
+1306,2026-03-06,C139,Toner,Office Supplies,East,2,150.57,0.05,286.08,168.64,117.44,Sara
+1307,2026-03-11,C009,Chair,Furniture,North,3,247.25,0.0,741.75,459.88,281.87,Ali
+1308,2026-03-10,C262,Paper Box,Office Supplies,North,3,73.83,0.0,221.49,106.32,115.17,Bilal
+1309,2026-03-11,C181,Paper Box,Office Supplies,South,2,73.58,0.05,139.8,70.64,69.16,Fatima
+1310,2026-03-01,C266,Headphones,Electronics,East,2,120.94,0.05,229.79,157.22,72.57,Ahmed
+1311,2026-03-12,C287,Desk,Furniture,East,3,604.43,0.0,1813.29,1233.04,580.25,Ayesha
+1312,2026-03-13,C157,Toner,Office Supplies,East,2,152.75,0.05,290.22,171.08,119.14,Fatima
+1313,2026-03-23,C184,Cabinet,Furniture,South,2,504.3,0.05,958.17,665.68,292.49,Fatima
+1314,2026-03-19,C001,Cabinet,Furniture,North,2,503.51,,956.67,664.63,292.04,Bilal
+1315,2026-03-25,C234,Bookshelf,Furniture,North,3,396.83,0.0,1190.49,761.91,428.58,Sara
+1316,2026-03-25,C063,Laptop,Electronics,North,3,899.73,0.0,2699.19,2051.38,647.81,Bilal
+1317,2026-03-20,C071,Phone,Electronics,South,3,689.86,0.0,2069.58,1531.49,538.09,Sara
+1318,2026-03-06,C149,Phone,Electronics,South,2,692.99,0.05,1316.68,1025.63,291.05,Ayesha
+1319,2026-03-04,C194,Toner,Office Supplies,East,3,152.8,0.0,458.4,256.7,201.7,Ali
+1320,2026-03-01,C145,Bookshelf,Furniture,South,2,403.28,0.05,766.23,516.2,250.03,Fatima
+1321,2026-03-05,C267,Paper Box,Office Supplies,East,3,74.58,0.0,223.74,107.4,116.34,Fatima
+1322,2026-03-13,C009,Cabinet,Furniture,North,3,491.13,0.0,1473.39,972.44,500.95,Ali
+1323,2026-03-04,C182,Cabinet,Furniture,North,3,502.5,0.0,1507.5,994.95,512.55,Fatima
+1324,2026-03-27,C076,Stationery Kit,Office Supplies,East,3,98.4,0.0,295.2,147.6,147.6,Ahmed
+1325,2026-03-18,C199,Monitor,Electronics,South,2,297.15,0.05,564.58,427.9,136.68,Ali
+1326,2026-03-27,C209,Bookshelf,Furniture,North,3,404.52,,1213.56,776.68,436.88,Ahmed
+1327,2026-03-15,C109,Bookshelf,Furniture,East,2,403.65,0.05,766.93,516.67,250.26,Bilal
+1328,2026-03-08,C210,Chair,Furniture,East,2,245.19,0.05,465.86,304.04,161.82,Bilal
+1329,2026-03-19,C242,Bookshelf,Furniture,East,2,400.62,0.05,761.18,512.79,248.39,Ahmed
+1330,2026-03-05,C172,Phone,Electronics,South,2,688.96,0.05,1309.02,1019.66,289.36,Ayesha
+1331,2026-03-22,C185,Printer,Office Supplies,East,3,305.01,0.0,915.03,567.32,347.71,Ahmed
+1332,2026-03-16,C201,Toner,Office Supplies,South,3,151.31,0.0,453.93,254.2,199.73,Ali
+1333,2026-03-04,C222,Bookshelf,Furniture,North,2,393.91,0.05,748.43,504.2,244.23,Fatima
+1334,2026-03-05,C184,Desk,Furniture,East,3,610.39,0.0,1831.17,1245.2,585.97,Ali
+1335,2026-03-05,C130,Cabinet,Furniture,East,3,498.77,0.0,1496.31,987.56,508.75,Sara
+1336,2026-03-02,C101,Laptop,Electronics,South,3,884.77,0.0,2654.31,2017.28,637.03,Bilal
+1337,2026-03-03,C083,Cabinet,Furniture,South,2,491.08,0.05,933.05,648.23,284.82,Ahmed
+1338,2026-03-24,C157,Chair,Furniture,East,3,251.04,0.0,753.12,466.93,286.19,Ali
+1339,2026-03-16,C217,Printer,Office Supplies,North,2,301.94,0.05,573.69,374.41,199.28,Ahmed
+1340,2026-03-20,C060,Phone,Electronics,East,3,701.26,0.0,2103.78,1556.8,546.98,Ahmed
+1341,2026-03-21,C220,Phone,Electronics,South,2,693.21,0.05,1317.1,1025.95,291.15,Ahmed
+1342,2026-03-25,C002,Bookshelf,Furniture,South,2,396.88,0.05,754.07,508.01,246.06,Sara
+1343,2026-03-22,C130,Chair,Furniture,North,2,245.76,0.05,466.94,304.74,162.2,Ali
+1344,2026-03-16,C184,Stationery Kit,Office Supplies,North,2,101.76,0.05,193.34,101.76,91.58,Bilal
+1345,2026-03-16,C060,Laptop,Electronics,North,3,908.8,0.0,2726.4,2072.06,654.34,Fatima
+1346,2026-03-07,C273,Chair,Furniture,East,2,252.93,0.05,480.57,313.63,166.94,Sara
+1347,2026-03-10,C203,Bookshelf,Furniture,South,2,403.44,0.05,766.54,516.4,250.14,Ayesha
+1348,2026-03-19,C038,Laptop,Electronics,East,2,882.08,0.05,1675.95,1340.76,335.19,Ali
+1349,2026-03-15,C143,Monitor,Electronics,North,2,302.84,0.05,575.4,436.09,139.31,Sara
+1350,2026-03-01,C125,Monitor,Electronics,South,3,303.49,0.0,910.47,655.54,254.93,Sara
+1351,2026-03-11,C287,Laptop,Electronics,North,2,910.07,0.05,1729.13,1383.31,345.82,Fatima
+1352,2026-03-01,C172,Chair,Furniture,South,2,247.78,0.05,470.78,307.25,163.53,Ayesha
+1353,2026-03-24,C235,Chair,Furniture,North,3,253.49,0.0,760.47,471.49,288.98,Ahmed
+1354,2026-03-27,C103,Laptop,Electronics,South,3,913.64,0.0,2740.92,2083.1,657.82,Ali
+1355,2026-03-27,C300,Printer,Office Supplies,North,2,295.27,0.05,561.01,366.13,194.88,Sara
+1356,2026-03-27,C015,Headphones,Electronics,North,3,117.62,0.0,352.86,229.36,123.5,Fatima
+1357,2026-03-07,C098,Paper Box,Office Supplies,South,2,75.98,0.05,144.36,72.94,71.42,Bilal
+1358,2026-03-06,C131,Paper Box,Office Supplies,South,3,76.45,0.0,229.35,110.09,119.26,Sara
+1359,2026-03-22,C216,Chair,Furniture,South,2,251.82,0.05,478.46,312.26,166.2,Bilal
+1360,2026-03-05,C271,Phone,Electronics,South,3,692.26,0.0,2076.78,1536.82,539.96,Sara
+1361,2026-03-05,C018,Cabinet,Furniture,South,2,504.97,0.05,959.44,666.56,292.88,Fatima
+1362,2026-03-21,C057,Chair,Furniture,North,3,249.17,0.0,747.51,463.46,284.05,Ali
+1363,2026-03-13,C107,Monitor,Electronics,North,2,299.19,0.05,568.46,430.83,137.63,Fatima
+1364,2026-03-12,C100,Phone,Electronics,North,3,689.11,0.0,2067.33,1529.82,537.51,Sara
+1365,2026-03-17,C198,Phone,Electronics,North,3,690.88,0.0,2072.64,1533.75,538.89,Ahmed
+1366,2026-03-25,C034,Cabinet,Furniture,East,2,495.21,0.05,940.9,653.68,287.22,Ali
+1367,2026-03-15,C067,Cabinet,Furniture,North,3,501.84,0.0,1505.52,993.64,511.88,Ali
+1368,2026-03-01,C015,Laptop,Electronics,South,3,886.56,0.0,2659.68,2021.36,638.32,Sara
+1369,2026-03-13,C279,Printer,Office Supplies,South,3,299.88,0.0,899.64,557.78,341.86,Sara
+1370,2026-03-03,C247,Headphones,Electronics,East,2,118.81,0.05,225.74,154.45,71.29,Ali
+1371,2026-03-14,C270,Monitor,Electronics,South,2,304.34,0.05,578.25,438.25,140.0,Ahmed
+1372,2026-03-10,C077,Toner,Office Supplies,East,2,150.31,0.05,285.59,168.35,117.24,Fatima
+1373,2026-03-25,C161,Desk,Furniture,North,2,600.36,0.05,1140.68,816.49,324.19,Bilal
+1374,2026-03-10,C171,Headphones,Electronics,East,3,120.36,0.0,361.08,234.7,126.38,Sara
+1375,2026-03-04,C088,Monitor,Electronics,North,3,294.4,0.0,883.2,635.9,247.3,Ayesha
+1376,2026-03-01,C019,Laptop,Electronics,North,2,906.62,0.05,1722.58,1378.06,344.52,Fatima
+1377,2026-03-04,C018,Chair,Furniture,East,3,251.17,0.0,753.51,467.18,286.33,Ahmed
+1378,2026-03-24,C020,Headphones,Electronics,North,3,118.47,0.0,355.41,231.02,124.39,Ali
+1379,2026-03-02,C217,Toner,Office Supplies,North,3,152.79,0.0,458.37,256.69,201.68,Ayesha
+1380,2026-03-21,C240,Desk,Furniture,North,2,599.01,0.05,1138.12,814.65,323.47,Ayesha
+1381,2026-03-07,C181,Bookshelf,Furniture,North,2,399.71,0.05,759.45,511.63,247.82,Fatima
+1382,2026-03-21,C044,Monitor,Electronics,South,3,300.84,0.0,902.52,649.81,252.71,Ahmed
+1383,2026-03-12,C165,Phone,Electronics,South,2,696.93,0.05,1324.17,1031.46,292.71,Ahmed
+1384,2026-03-19,C233,Laptop,Electronics,South,3,908.27,0.0,2724.81,2070.86,653.95,Ahmed
+1385,2026-03-16,C210,Desk,Furniture,North,3,591.19,0.0,1773.57,1206.03,567.54,Ayesha
+1386,2026-03-09,C024,Cabinet,Furniture,North,3,494.0,0.0,1482.0,978.12,503.88,Fatima
+1387,2026-03-06,C164,Chair,Furniture,North,3,246.38,0.0,739.14,458.27,280.87,Sara
+1388,2026-03-24,C209,Headphones,Electronics,North,2,117.91,0.05,224.03,153.28,70.75,Bilal
+1389,2026-03-25,C148,Headphones,Electronics,North,3,122.33,0.0,366.99,238.54,128.45,Fatima
+1390,2026-03-09,C253,Headphones,Electronics,East,3,122.16,0.0,366.48,238.21,128.27,Sara
+1391,2026-03-23,C221,Toner,Office Supplies,South,2,147.14,0.05,279.57,164.8,114.77,Fatima
+1392,2026-03-05,C194,Chair,Furniture,North,3,250.35,0.0,751.05,465.65,285.4,Fatima
+1393,2026-03-02,C064,Laptop,Electronics,North,2,895.28,0.05,1701.03,1360.83,340.2,Ali
+1394,2026-03-25,C019,Phone,Electronics,South,2,706.48,0.05,1342.31,1045.59,296.72,Ahmed
+1395,2026-03-20,C199,Desk,Furniture,East,3,604.71,0.0,1814.13,1233.61,580.52,Bilal
+1396,2026-03-01,C046,Monitor,Electronics,South,3,298.52,0.0,895.56,644.8,250.76,Ahmed
+1397,2026-03-08,C171,Headphones,Electronics,East,2,118.22,0.05,224.62,153.69,70.93,Ali
+1398,2026-03-13,C253,Phone,Electronics,North,2,689.86,0.05,1310.73,1020.99,289.74,Ayesha
+1399,2026-03-22,C259,Headphones,Electronics,East,2,119.7,0.05,227.43,155.61,71.82,Bilal
+1400,2026-03-27,C181,Laptop,Electronics,East,3,902.39,0.0,2707.17,2057.45,649.72,Bilal
+1401,2026-03-14,C104,Laptop,Electronics,South,2,915.88,0.05,1740.17,1392.14,348.03,Ahmed
+1402,2026-03-02,C040,Desk,Furniture,East,2,590.2,0.05,1121.38,802.67,318.71,Ali
+1403,2026-03-15,C050,Printer,Office Supplies,North,2,303.49,0.05,576.63,376.33,200.3,Ayesha
+1404,2026-03-23,C192,Bookshelf,Furniture,East,3,407.7,0.0,1223.1,782.78,440.32,Ali
+1405,2026-03-03,C108,Monitor,Electronics,South,2,301.32,0.05,572.51,433.9,138.61,Fatima
+1406,2026-03-22,C207,Laptop,Electronics,South,3,897.33,0.0,2691.99,2045.91,646.08,Sara
+1407,2026-03-19,C147,Monitor,Electronics,South,3,296.13,0.0,888.39,639.64,248.75,Sara
+1408,2026-03-19,C149,Phone,Electronics,South,2,712.67,0.05,1354.07,1054.75,299.32,Fatima
+1409,2026-03-18,C222,Desk,Furniture,South,2,598.33,0.05,1136.83,813.73,323.1,Sara
+1410,2026-03-10,C198,Laptop,Electronics,North,3,892.87,0.0,2678.61,2035.74,642.87,Fatima
+1411,2026-03-17,C053,Laptop,Electronics,North,2,907.8,0.05,1724.82,1379.86,344.96,Bilal
+1412,2026-03-15,C162,Chair,Furniture,East,2,254.32,0.05,483.21,315.36,167.85,Ahmed
+1413,2026-03-20,C200,Paper Box,Office Supplies,South,2,73.95,0.05,140.5,70.99,69.51,Fatima
+1414,2026-03-06,C195,Monitor,Electronics,South,2,302.39,0.05,574.54,435.44,139.1,Bilal
+1415,2026-03-01,C169,Chair,Furniture,North,2,250.69,0.05,476.31,310.86,165.45,Ali
+1416,2026-03-23,C118,Stationery Kit,Office Supplies,South,3,100.72,0.0,302.16,151.08,151.08,Sara
+1417,2026-03-13,C268,Phone,Electronics,North,3,692.56,0.0,2077.68,1537.48,540.2,Ayesha
+1418,2026-03-11,C125,Desk,Furniture,North,3,604.98,0.0,1814.94,1234.16,580.78,Ali
+1419,2026-03-12,C269,Printer,Office Supplies,South,3,304.37,0.0,913.11,566.13,346.98,Ali
+1420,2026-03-18,C249,Printer,Office Supplies,East,3,299.27,0.0,897.81,556.64,341.17,Ayesha
+1421,2026-03-15,C266,Monitor,Electronics,North,2,300.25,0.05,570.48,432.36,138.12,Fatima
+1422,2026-03-11,C272,Desk,Furniture,East,3,602.82,0.0,1808.46,1229.75,578.71,Fatima
+1423,2026-03-27,C127,Headphones,Electronics,East,3,121.79,0.0,365.37,237.49,127.88,Ayesha
+1424,2026-03-17,C018,Laptop,Electronics,East,3,884.46,0.0,2653.38,2016.57,636.81,Ali
+1425,2026-03-12,C093,Bookshelf,Furniture,South,3,396.59,0.0,1189.77,761.45,428.32,Ayesha
+1426,2026-03-08,C072,Monitor,Electronics,East,3,295.48,0.0,886.44,638.24,248.2,Sara
+1427,2026-03-02,C135,Cabinet,Furniture,South,2,494.37,0.05,939.3,652.57,286.73,Bilal
+1428,2026-03-04,C234,Laptop,Electronics,North,2,885.02,0.05,1681.54,1345.23,336.31,Ayesha
+1429,2026-03-06,C109,Cabinet,Furniture,South,3,508.83,0.0,1526.49,1007.48,519.01,Ali
+1430,2026-03-23,C217,Laptop,Electronics,East,2,892.69,0.05,1696.11,1356.89,339.22,Fatima
+1431,2026-03-19,C041,Paper Box,Office Supplies,East,2,75.04,0.05,142.58,72.04,70.54,Ali
+1432,2026-03-25,C054,Monitor,Electronics,North,2,299.68,0.05,569.39,431.54,137.85,Bilal
+1433,2026-03-07,C054,Bookshelf,Furniture,North,3,405.42,0.0,1216.26,778.41,437.85,Ayesha
+1434,2026-03-07,C259,Cabinet,Furniture,South,2,506.46,0.05,962.27,668.53,293.74,Fatima
+1435,2026-03-24,C211,Desk,Furniture,North,3,590.64,0.0,1771.92,1204.91,567.01,Sara
+1436,2026-03-21,C098,Desk,Furniture,North,2,611.76,0.05,1162.34,831.99,330.35,Ali
+1437,2026-03-15,C214,Phone,Electronics,North,2,713.96,0.05,1356.52,1056.66,299.86,Ayesha
+1438,2026-03-15,C071,Phone,Electronics,South,3,690.06,0.0,2070.18,1531.93,538.25,Ayesha
+1439,2026-03-10,C046,Stationery Kit,Office Supplies,North,2,101.14,0.05,192.17,101.14,91.03,Ayesha
+1440,2026-03-17,C192,Monitor,Electronics,South,3,304.33,0.0,912.99,657.35,255.64,Ayesha
+1441,2026-03-21,C169,Laptop,Electronics,East,2,897.97,0.05,1706.14,1364.91,341.23,Ayesha
+1442,2026-03-04,C008,Stationery Kit,Office Supplies,South,3,99.1,0.0,297.3,148.65,148.65,Sara
+1443,2026-03-07,C072,Phone,Electronics,East,2,704.62,0.05,1338.78,1042.84,295.94,Ayesha
+1444,2026-03-07,C091,Stationery Kit,Office Supplies,North,2,98.64,0.05,187.42,98.64,88.78,Sara
+1445,2026-03-28,C119,Paper Box,Office Supplies,North,3,74.3,0.0,222.9,106.99,115.91,Sara
+1446,2026-03-26,C260,Printer,Office Supplies,East,2,298.72,0.05,567.57,370.41,197.16,Ayesha
+1447,2026-03-06,C040,Headphones,Electronics,North,2,119.15,0.05,226.38,154.9,71.48,Bilal
+1448,2026-03-07,C210,Monitor,Electronics,North,3,294.78,0.0,884.34,636.72,247.62,Sara
+1449,2026-03-28,C041,Laptop,Electronics,South,2,911.71,0.05,1732.25,1385.8,346.45,Bilal
+1450,2026-03-22,C278,Phone,Electronics,North,3,696.45,0.0,2089.35,1546.12,543.23,Fatima
+1451,2026-04-19,C086,Paper Box,Office Supplies,North,2,76.1,0.0,152.2,73.06,79.14,Bilal
+1452,2026-04-23,C080,Stationery Kit,Office Supplies,North,3,100.74,0.05,287.11,151.11,136.0,Sara
+1453,2026-04-20,C284,Paper Box,Office Supplies,North,2,74.6,0.0,149.2,71.62,77.58,Ali
+1454,2026-04-21,C068,Monitor,Electronics,East,3,296.15,0.05,844.03,639.68,204.35,Sara
+1455,2026-04-11,C177,Chair,Furniture,East,2,253.01,0.0,506.02,313.73,192.29,Ali
+1456,2026-04-15,C251,Phone,Electronics,South,3,693.0,0.05,1975.05,1538.46,436.59,Bilal
+1457,2026-04-14,C221,Bookshelf,Furniture,North,3,407.84,0.05,1162.34,783.05,379.29,Sara
+1458,2026-04-09,C188,Headphones,Electronics,South,2,118.07,0.0,236.14,153.49,82.65,Bilal
+1459,2026-04-08,C258,Desk,Furniture,North,2,598.33,0.0,1196.66,813.73,382.93,Sara
+1460,2026-04-01,C107,Cabinet,Furniture,South,2,497.61,0.0,995.22,656.85,338.37,Ayesha
+1461,2026-04-07,C270,Laptop,Electronics,North,2,911.31,0.0,1822.62,1385.19,437.43,Sara
+1462,2026-04-26,C277,Phone,Electronics,North,2,695.38,0.0,1390.76,1029.16,361.6,Ali
+1463,2026-04-02,C044,Printer,Office Supplies,East,2,300.57,0.0,601.14,372.71,228.43,Ayesha
+1464,2026-04-14,C163,Monitor,Electronics,South,2,304.04,0.0,608.08,437.82,170.26,Bilal
+1465,2026-04-15,C056,Headphones,Electronics,South,3,118.17,0.05,336.78,230.43,106.35,Fatima
+1466,2026-04-06,C008,Chair,Furniture,North,3,249.7,0.05,711.64,464.44,247.2,Ali
+1467,2026-04-23,C161,Cabinet,Furniture,North,3,507.52,0.05,1446.43,1004.89,441.54,Ali
+1468,2026-04-25,C026,Laptop,Electronics,South,3,887.33,0.05,2528.89,2023.11,505.78,Fatima
+1469,2026-04-12,C057,Phone,Electronics,East,2,689.03,0.0,1378.06,1019.76,358.3,Ayesha
+1470,2026-04-25,C164,Monitor,Electronics,South,3,302.99,0.05,863.52,654.46,209.06,Ayesha
+1471,2026-04-09,C081,Paper Box,Office Supplies,East,2,73.75,0.0,147.5,70.8,76.7,Fatima
+1472,2026-04-20,C256,Monitor,Electronics,East,2,301.12,0.0,602.24,433.61,168.63,Ayesha
+1473,2026-04-17,C039,Laptop,Electronics,North,3,897.1,0.05,2556.74,2045.39,511.35,Fatima
+1474,2026-04-13,C088,Bookshelf,Furniture,South,2,396.54,0.0,793.08,507.57,285.51,Ahmed
+1475,2026-04-25,C235,Laptop,Electronics,North,2,895.0,0.0,1790.0,1360.4,429.6,Ahmed
+1476,2026-04-15,C004,Cabinet,Furniture,East,2,503.32,0.0,1006.64,664.38,342.26,Ali
+1477,2026-04-26,C298,Toner,Office Supplies,North,3,150.93,0.05,430.15,253.56,176.59,Sara
+1478,2026-04-17,C035,Printer,Office Supplies,South,12,300.9,0.05,3430.26,2238.7,1191.56,Ayesha
+1479,2026-04-06,C046,Phone,Electronics,North,2,711.29,0.0,1422.58,1052.71,369.87,Bilal
+1480,2026-04-26,C215,Bookshelf,Furniture,South,2,407.22,0.0,814.44,521.24,293.2,Bilal
+1481,2026-04-25,C141,Phone,Electronics,East,2,704.7,0.0,1409.4,1042.96,366.44,Sara
+1482,2026-04-23,C063,Phone,Electronics,South,3,707.4,0.05,2016.09,1570.43,445.66,Sara
+1483,2026-04-27,C089,Laptop,Electronics,East,2,906.32,,1812.64,1377.61,435.03,Sara
+1484,2026-04-08,C030,Chair,Furniture,North,2,245.22,0.0,490.44,304.07,186.37,Sara
+1485,2026-04-23,C016,Chair,Furniture,South,3,248.64,0.05,708.62,462.47,246.15,Sara
+1486,2026-04-12,C190,Desk,Furniture,East,3,595.67,0.05,1697.66,1215.17,482.49,Fatima
+1487,2026-04-08,C010,Headphones,Electronics,East,3,118.23,0.05,336.96,230.55,106.41,Bilal
+1488,2026-04-24,C119,Bookshelf,Furniture,East,2,394.99,0.0,789.98,505.59,284.39,Ahmed
+1489,2026-04-24,C151,Chair,Furniture,South,2,245.51,0.0,491.02,304.43,186.59,Sara
+1490,2026-04-19,C009,Laptop,Electronics,North,3,916.48,0.05,2611.97,2089.57,522.4,Sara
+1491,2026-04-10,C180,Headphones,Electronics,South,2,119.73,0.0,239.46,155.65,83.81,Ali
+1492,2026-04-16,C067,Desk,Furniture,South,2,603.32,0.0,1206.64,820.52,386.12,Ahmed
+1493,2026-04-07,C172,Cabinet,Furniture,East,3,509.67,0.05,1452.56,1009.15,443.41,Sara
+1494,2026-04-01,C060,Toner,Office Supplies,North,2,151.73,0.0,303.46,169.94,133.52,Ayesha
+1495,2026-04-09,C156,Desk,Furniture,North,3,605.35,0.05,1725.25,1234.91,490.34,Bilal
+1496,2026-04-18,C021,Laptop,Electronics,North,3,889.52,0.05,2535.13,2028.11,507.02,Fatima
+1497,2026-04-23,C120,Laptop,Electronics,South,2,913.76,0.0,1827.52,1388.92,438.6,Ali
+1498,2026-04-05,C233,Phone,Electronics,North,3,690.11,0.05,1966.81,1532.04,434.77,Ali
+1499,2026-04-20,C070,Phone,Electronics,North,3,704.06,0.05,2006.57,1563.01,443.56,Ahmed
+1500,2026-04-04,C133,Phone,Electronics,South,3,709.33,0.05,2021.59,1574.71,446.88,Fatima
+1501,2026-04-02,C106,Paper Box,Office Supplies,South,3,75.09,0.05,214.01,108.13,105.88,Fatima
+1502,2026-04-16,C192,Toner,Office Supplies,North,2,148.44,0.0,296.88,166.25,130.63,Ali
+1503,2026-04-07,C049,Monitor,Electronics,East,2,299.99,0.0,599.98,431.99,167.99,Sara
+1504,2026-04-12,C279,Toner,Office Supplies,North,3,150.34,0.05,428.47,252.57,175.9,Bilal
+1505,2026-04-18,C206,Monitor,Electronics,North,2,294.02,0.0,588.04,423.39,164.65,Bilal
+1506,2026-04-07,C237,Toner,Office Supplies,East,2,149.69,0.0,299.38,167.65,131.73,Ahmed
+1507,2026-04-02,C265,Laptop,Electronics,South,3,902.42,0.05,2571.9,2057.52,514.38,Fatima
+1508,2026-04-21,C200,Phone,Electronics,South,2,710.53,0.0,1421.06,1051.58,369.48,Fatima
+1509,2026-04-14,C263,Laptop,Electronics,East,3,901.74,0.05,2569.96,2055.97,513.99,Ayesha
+1510,2026-04-01,C154,Stationery Kit,Office Supplies,South,2,98.63,0.0,197.26,98.63,98.63,Bilal
+1511,2026-04-25,C251,Cabinet,Furniture,South,3,500.21,,1425.6,990.42,435.18,Sara
+1512,2026-04-08,C022,Desk,Furniture,East,3,610.43,0.05,1739.73,1245.28,494.45,Ali
+1513,2026-04-05,C082,Bookshelf,Furniture,East,2,401.32,0.0,802.64,513.69,288.95,Bilal
+1514,2026-04-16,C120,Monitor,Electronics,East,2,305.13,0.0,610.26,439.39,170.87,Ahmed
+1515,2026-04-12,C227,Chair,Furniture,North,2,254.59,0.0,509.18,315.69,193.49,Fatima
+1516,2026-04-14,C155,Desk,Furniture,South,2,588.86,0.0,1177.72,800.85,376.87,Fatima
+1517,2026-04-02,C178,Monitor,Electronics,East,2,302.51,0.0,605.02,435.61,169.41,Ahmed
+1518,2026-04-12,C134,Desk,Furniture,North,3,609.06,0.05,1735.82,1242.48,493.34,Ayesha
+1519,2026-04-28,C024,Toner,Office Supplies,East,2,147.81,0.0,295.62,165.55,130.07,Ali
+1520,2026-04-07,C216,Chair,Furniture,North,2,251.87,0.0,503.74,312.32,191.42,Ali
+1521,2026-04-22,C283,Cabinet,Furniture,South,3,492.71,0.05,1404.22,975.57,428.65,Ali
+1522,2026-04-12,C286,Phone,Electronics,North,3,700.53,0.05,1996.51,1555.18,441.33,Ayesha
+1523,2026-04-08,C160,Bookshelf,Furniture,South,3,393.38,0.05,1121.13,755.29,365.84,Ali
+1524,2026-04-04,C281,Bookshelf,Furniture,South,3,394.13,0.05,1123.27,756.73,366.54,Ali
+1525,2026-04-28,C057,Chair,Furniture,North,3,248.0,0.05,706.8,461.28,245.52,Ayesha
+1526,2026-04-11,C071,Paper Box,Office Supplies,East,3,76.38,0.05,217.68,109.99,107.69,Bilal
+1527,2026-04-02,C225,Desk,Furniture,South,2,592.35,0.0,1184.7,805.6,379.1,Fatima
+1528,2026-04-01,C148,Cabinet,Furniture,North,2,496.52,0.0,993.04,655.41,337.63,Ahmed
+1529,2026-04-28,C045,Phone,Electronics,North,2,693.51,0.0,1387.02,1026.39,360.63,Ayesha
+1530,2026-04-22,C232,Phone,Electronics,South,2,698.97,0.0,1397.94,1034.48,363.46,Ali
+1531,2026-04-13,C280,Cabinet,Furniture,North,2,490.68,0.0,981.36,647.7,333.66,Ahmed
+1532,2026-04-11,C177,Cabinet,Furniture,North,2,501.35,0.0,1002.7,661.78,340.92,Ali
+1533,2026-04-01,C287,Laptop,Electronics,East,3,887.52,0.05,2529.43,2023.55,505.88,Ahmed
+1534,2026-04-09,C195,Laptop,Electronics,North,2,908.64,0.0,1817.28,1381.13,436.15,Sara
+1535,2026-04-07,C293,Monitor,Electronics,South,2,297.43,0.0,594.86,428.3,166.56,Sara
+1536,2026-04-23,C102,Phone,Electronics,North,2,713.09,0.0,1426.18,1055.37,370.81,Bilal
+1537,2026-04-09,C035,Monitor,Electronics,North,3,299.62,0.05,853.92,647.18,206.74,Bilal
+1538,2026-04-01,C034,Headphones,Electronics,South,3,120.76,0.05,344.17,235.48,108.69,Fatima
+1539,2026-04-24,C280,Chair,Furniture,North,2,249.83,0.0,499.66,309.79,189.87,Ali
+1540,2026-04-04,C066,Headphones,Electronics,South,3,121.01,0.05,344.88,235.97,108.91,Bilal
+1541,2026-04-15,C224,Headphones,Electronics,North,2,122.01,0.0,244.02,158.61,85.41,Sara
+1542,2026-04-15,C090,Monitor,Electronics,North,3,295.71,0.05,842.77,638.73,204.04,Ayesha
+1543,2026-04-02,C295,Chair,Furniture,East,3,247.28,0.05,704.75,459.94,244.81,Ali
+1544,2026-04-26,C251,Phone,Electronics,North,3,686.14,0.05,1955.5,1523.23,432.27,Bilal
+1545,2026-04-28,C142,Paper Box,Office Supplies,East,3,73.69,0.05,210.02,106.11,103.91,Fatima
+1546,2026-04-19,C156,Paper Box,Office Supplies,North,3,75.6,0.05,215.46,108.86,106.6,Ahmed
+1547,2026-04-06,C149,Stationery Kit,Office Supplies,South,3,99.56,0.05,283.75,149.34,134.41,Ahmed
+1548,2026-04-09,C188,Laptop,Electronics,East,2,912.41,0.0,1824.82,1386.86,437.96,Fatima
+1549,2026-04-13,C276,Stationery Kit,Office Supplies,East,3,99.11,0.05,282.46,148.66,133.8,Ayesha
+1550,2026-04-25,C136,Laptop,Electronics,North,2,885.65,0.0,1771.3,1346.19,425.11,Ali
+1551,2026-04-22,C268,Bookshelf,Furniture,North,3,407.55,0.05,1161.52,782.5,379.02,Fatima
+1552,2026-04-10,C223,Chair,Furniture,East,3,249.62,0.05,711.42,464.29,247.13,Ahmed
+1553,2026-04-19,C006,Stationery Kit,Office Supplies,North,2,100.31,0.0,200.62,100.31,100.31,Fatima
+1554,2026-04-19,C200,Laptop,Electronics,East,2,893.8,0.0,1787.6,1358.58,429.02,Ayesha
+1555,2026-04-02,C250,Printer,Office Supplies,South,2,294.46,0.0,588.92,365.13,223.79,Fatima
+1556,2026-04-08,C279,Printer,Office Supplies,North,2,300.73,0.0,601.46,372.91,228.55,Ayesha
+1557,2026-04-05,C259,Desk,Furniture,South,2,591.22,0.0,1182.44,804.06,378.38,Sara
+1558,2026-04-02,C285,Phone,Electronics,North,3,695.02,0.05,1980.81,1542.94,437.87,Ahmed
+1559,2026-04-14,C208,Monitor,Electronics,North,2,296.88,0.0,593.76,427.51,166.25,Bilal
+1560,2026-04-04,C234,Monitor,Electronics,South,3,305.8,0.05,871.53,660.53,211.0,Ahmed
+1561,2026-04-24,C210,Stationery Kit,Office Supplies,North,2,99.5,0.0,199.0,99.5,99.5,Ahmed
+1562,2026-04-19,C252,Cabinet,Furniture,South,2,492.66,0.0,985.32,650.31,335.01,Ayesha
+1563,2026-04-16,C164,Headphones,Electronics,East,3,118.34,0.05,337.27,230.76,106.51,Ahmed
+1564,2026-04-10,C129,Monitor,Electronics,East,3,294.7,0.05,839.89,636.55,203.34,Bilal
+1565,2026-04-26,C176,Chair,Furniture,North,3,248.51,0.05,708.25,462.23,246.02,Ahmed
+1566,2026-04-10,C270,Headphones,Electronics,North,2,120.72,0.0,241.44,156.94,84.5,Ayesha
+1567,2026-04-20,C113,Cabinet,Furniture,East,3,491.89,0.05,1401.89,973.94,427.95,Ahmed
+1568,2026-04-01,C028,Bookshelf,Furniture,North,2,400.76,0.0,801.52,512.97,288.55,Sara
+1569,2026-04-24,C105,Printer,Office Supplies,East,2,302.44,0.0,604.88,375.03,229.85,Ali
+1570,2026-04-11,C284,Chair,Furniture,South,3,253.62,0.05,722.82,471.73,251.09,Fatima
+1571,2026-04-09,C277,Desk,Furniture,South,2,598.27,0.0,1196.54,813.65,382.89,Fatima
+1572,2026-04-16,C006,Desk,Furniture,North,2,597.0,0.0,1194.0,811.92,382.08,Ayesha
+1573,2026-04-02,C001,Printer,Office Supplies,North,3,304.57,0.05,868.02,566.5,301.52,Fatima
+1574,2026-04-16,C059,Headphones,Electronics,South,3,119.18,0.05,339.66,232.4,107.26,Ayesha
+1575,2026-04-06,C267,Monitor,Electronics,North,3,300.3,0.05,855.86,648.65,207.21,Ahmed
+1576,2026-04-13,C158,Headphones,Electronics,North,2,122.38,0.0,244.76,159.09,85.67,Ali
+1577,2026-04-06,C055,Desk,Furniture,East,3,611.02,0.05,1741.41,1246.48,494.93,Fatima
+1578,2026-04-05,C029,Toner,Office Supplies,North,3,147.23,0.05,419.61,247.35,172.26,Fatima
+1579,2026-04-04,C222,Laptop,Electronics,North,3,889.33,0.05,2534.59,2027.67,506.92,Fatima
+1580,2026-04-02,C139,Bookshelf,Furniture,North,2,396.13,0.0,792.26,507.05,285.21,Ayesha
+1581,2026-04-03,C039,Monitor,Electronics,East,3,299.62,0.05,853.92,647.18,206.74,Ali
+1582,2026-04-12,C096,Chair,Furniture,South,2,247.1,0.0,494.2,306.4,187.8,Fatima
+1583,2026-04-11,C032,Phone,Electronics,North,2,710.19,0.0,1420.38,1051.08,369.3,Fatima
+1584,2026-04-19,C116,Paper Box,Office Supplies,East,2,74.13,0.0,148.26,71.16,77.1,Fatima
+1585,2026-04-12,C156,Printer,Office Supplies,North,3,294.08,0.05,838.13,546.99,291.14,Ahmed
+1586,2026-04-01,C100,Cabinet,Furniture,East,3,502.78,0.05,1432.92,995.5,437.42,Fatima
+1587,2026-04-12,C184,Phone,Electronics,South,3,706.15,0.05,2012.53,1567.65,444.88,Fatima
+1588,2026-04-20,C264,Bookshelf,Furniture,South,3,400.26,0.05,1140.74,768.5,372.24,Ali
+1589,2026-04-16,C066,Bookshelf,Furniture,East,3,394.39,0.05,1124.01,757.23,366.78,Ali
+1590,2026-04-07,C223,Laptop,Electronics,East,3,887.92,0.05,2530.57,2024.46,506.11,Sara
+1591,2026-04-10,C041,Cabinet,Furniture,South,2,493.01,0.0,986.02,650.77,335.25,Fatima
+1592,2026-04-23,C210,Desk,Furniture,South,3,593.66,,1691.93,1211.07,480.86,Ayesha
+1593,2026-04-16,C035,Laptop,Electronics,East,2,903.89,0.0,1807.78,1373.91,433.87,Sara
+1594,2026-04-20,C173,Laptop,Electronics,South,2,903.58,0.0,1807.16,1373.44,433.72,Ali
+1595,2026-04-27,C191,Printer,Office Supplies,North,3,294.08,0.05,838.13,546.99,291.14,Bilal
+1596,2026-04-06,C112,Stationery Kit,Office Supplies,South,2,99.52,0.0,199.04,99.52,99.52,Ahmed
+1597,2026-04-19,C281,Bookshelf,Furniture,South,2,399.5,0.0,799.0,511.36,287.64,Sara
+1598,2026-04-07,C085,Desk,Furniture,South,3,596.02,0.05,1698.66,1215.88,482.78,Ahmed
+1599,2026-04-20,C164,Laptop,Electronics,South,3,888.87,0.05,2533.28,2026.62,506.66,Fatima
+1600,2026-04-03,C215,Headphones,Electronics,South,2,117.7,0.0,235.4,153.01,82.39,Ahmed
+1601,2026-05-26,C172,Chair,Furniture,East,2,253.97,0.05,482.54,314.92,167.62,Ali
+1602,2026-05-27,C245,Printer,Office Supplies,South,2,298.79,0.05,567.7,370.5,197.2,Ayesha
+1603,2026-05-23,C095,Desk,Furniture,North,2,591.03,0.05,1122.96,803.8,319.16,Ahmed
+1604,2026-05-12,C264,Cabinet,Furniture,East,3,500.26,0.0,1500.78,990.51,510.27,Ayesha
+1605,2026-05-25,C024,Cabinet,Furniture,South,2,496.46,0.05,943.27,655.33,287.94,Ali
+1606,2026-05-16,C289,Laptop,Electronics,East,2,915.61,0.05,1739.66,1391.73,347.93,Bilal
+1607,2026-05-14,C276,Chair,Furniture,North,2,250.84,0.05,476.6,311.04,165.56,Ali
+1608,2026-05-22,C113,Phone,Electronics,North,2,698.68,0.05,1327.49,1034.05,293.44,Bilal
+1609,2026-05-28,C110,Laptop,Electronics,East,2,917.97,0.05,1744.14,1395.31,348.83,Ahmed
+1610,2026-05-08,C289,Desk,Furniture,South,2,593.24,0.05,1127.16,806.81,320.35,Ayesha
+1611,2026-05-15,C135,Desk,Furniture,South,3,598.34,0.0,1795.02,1220.61,574.41,Sara
+1612,2026-05-25,C254,Phone,Electronics,East,2,708.88,0.05,1346.87,1049.14,297.73,Sara
+1613,2026-05-08,C089,Stationery Kit,Office Supplies,North,2,98.13,0.05,186.45,98.13,88.32,Bilal
+1614,2026-05-23,C022,Phone,Electronics,South,3,687.37,0.0,2062.11,1525.96,536.15,Sara
+1615,2026-05-06,C187,Phone,Electronics,South,3,691.31,0.0,2073.93,1534.71,539.22,Ayesha
+1616,2026-05-16,C096,Monitor,Electronics,North,3,299.63,0.0,898.89,647.2,251.69,Fatima
+1617,2026-05-01,C052,Cabinet,Furniture,East,2,493.68,0.05,937.99,651.66,286.33,Ahmed
+1618,2026-05-24,C198,Stationery Kit,Office Supplies,North,3,100.73,0.0,302.19,151.09,151.1,Ali
+1619,2026-05-22,C063,Laptop,Electronics,North,2,909.43,0.05,1727.92,1382.33,345.59,Fatima
+1620,2026-05-07,C028,Cabinet,Furniture,South,2,506.5,0.05,962.35,668.58,293.77,Fatima
+1621,2026-05-23,C021,Toner,Office Supplies,North,3,148.21,0.0,444.63,248.99,195.64,Ahmed
+1622,2026-05-06,C222,Laptop,Electronics,East,2,896.72,0.05,1703.77,1363.01,340.76,Bilal
+1623,2026-05-11,C193,Laptop,Electronics,North,3,908.44,0.0,2725.32,2071.24,654.08,Ahmed
+1624,2026-05-04,C269,Phone,Electronics,South,3,704.75,0.0,2114.25,1564.55,549.7,Ali
+1625,2026-05-18,C077,Headphones,Electronics,North,2,119.89,0.05,227.79,155.86,71.93,Ayesha
+1626,2026-05-10,C239,Paper Box,Office Supplies,North,2,73.9,0.05,140.41,70.94,69.47,Ali
+1627,2026-05-10,C208,Toner,Office Supplies,East,2,151.05,0.05,287.0,169.18,117.82,Fatima
+1628,2026-05-11,C212,Bookshelf,Furniture,South,3,406.65,0.0,1219.95,780.77,439.18,Bilal
+1629,2026-05-23,C212,Monitor,Electronics,South,3,297.07,0.0,891.21,641.67,249.54,Fatima
+1630,2026-05-22,C207,Printer,Office Supplies,South,3,301.72,0.0,905.16,561.2,343.96,Bilal
+1631,2026-05-20,C243,Monitor,Electronics,North,3,304.48,0.0,913.44,657.68,255.76,Bilal
+1632,2026-05-21,C189,Headphones,Electronics,North,3,122.12,0.0,366.36,238.13,128.23,Ahmed
+1633,2026-05-25,C134,Desk,Furniture,North,3,593.45,0.0,1780.35,1210.64,569.71,Ahmed
+1634,2026-05-10,C078,Stationery Kit,Office Supplies,South,3,99.52,0.0,298.56,149.28,149.28,Fatima
+1635,2026-05-08,C266,Cabinet,Furniture,East,2,507.35,0.05,963.97,669.7,294.27,Fatima
+1636,2026-05-23,C091,Cabinet,Furniture,East,2,503.53,0.05,956.71,664.66,292.05,Sara
+1637,2026-05-04,C264,Desk,Furniture,South,2,606.6,0.05,1152.54,824.98,327.56,Ahmed
+1638,2026-05-22,C180,Stationery Kit,Office Supplies,North,2,98.1,0.05,186.39,98.1,88.29,Bilal
+1639,2026-05-22,C235,Desk,Furniture,North,2,595.23,0.05,1130.94,809.51,321.43,Ali
+1640,2026-05-20,C140,Phone,Electronics,North,3,692.43,,2077.29,1537.19,540.1,Sara
+1641,2026-05-23,C213,Chair,Furniture,North,2,254.94,0.05,484.39,316.13,168.26,Ahmed
+1642,2026-05-14,C079,Chair,Furniture,East,3,247.05,0.0,741.15,459.51,281.64,Ali
+1643,2026-05-26,C047,Desk,Furniture,North,3,604.84,0.0,1814.52,1233.87,580.65,Ahmed
+1644,2026-05-24,C041,Phone,Electronics,North,2,702.97,0.05,1335.64,1040.4,295.24,Ali
+1645,2026-05-14,C086,Bookshelf,Furniture,North,2,394.11,0.05,748.81,504.46,244.35,Ayesha
+1646,2026-05-03,C217,Headphones,Electronics,North,3,121.47,0.0,364.41,236.87,127.54,Ayesha
+1647,2026-05-19,C273,Paper Box,Office Supplies,North,3,74.89,0.0,224.67,107.84,116.83,Bilal
+1648,2026-05-11,C133,Laptop,Electronics,North,3,894.5,0.0,2683.5,2039.46,644.04,Bilal
+1649,2026-05-19,C028,Laptop,Electronics,East,3,896.5,0.0,2689.5,2044.02,645.48,Bilal
+1650,2026-05-21,C242,Desk,Furniture,East,3,598.71,0.0,1796.13,1221.37,574.76,Fatima
+1651,2026-05-21,C050,Stationery Kit,Office Supplies,North,3,98.4,0.0,295.2,147.6,147.6,Sara
+1652,2026-05-08,C210,Printer,Office Supplies,North,3,299.36,0.0,898.08,556.81,341.27,Ahmed
+1653,2026-05-23,C294,Chair,Furniture,North,2,245.4,0.05,466.26,304.3,161.96,Fatima
+1654,2026-05-21,C263,Monitor,Electronics,South,3,298.12,0.0,894.36,643.94,250.42,Bilal
+1655,2026-05-01,C039,Headphones,Electronics,East,3,119.82,0.0,359.46,233.65,125.81,Fatima
+1656,2026-05-11,C124,Phone,Electronics,North,3,696.07,0.0,2088.21,1545.28,542.93,Sara
+1657,2026-05-15,C245,Cabinet,Furniture,East,3,494.59,0.0,1483.77,979.29,504.48,Ali
+1658,2026-05-10,C111,Monitor,Electronics,South,3,303.05,0.0,909.15,654.59,254.56,Fatima
+1659,2026-05-04,C070,Laptop,Electronics,East,3,917.97,0.0,2753.91,2092.97,660.94,Ahmed
+1660,2026-05-20,C077,Phone,Electronics,East,2,712.83,0.05,1354.38,1054.99,299.39,Fatima
+1661,2026-05-06,C018,Monitor,Electronics,North,2,302.48,0.05,574.71,435.57,139.14,Ahmed
+1662,2026-05-01,C259,Chair,Furniture,South,3,247.42,0.0,742.26,460.2,282.06,Ahmed
+1663,2026-05-14,C102,Laptop,Electronics,North,3,894.69,0.0,2684.07,2039.89,644.18,Sara
+1664,2026-05-06,C021,Stationery Kit,Office Supplies,South,2,100.32,0.05,190.61,100.32,90.29,Ayesha
+1665,2026-05-09,C035,Phone,Electronics,East,2,711.32,0.05,1351.51,1052.75,298.76,Fatima
+1666,2026-05-14,C280,Toner,Office Supplies,North,2,149.22,0.05,283.52,167.13,116.39,Ayesha
+1667,2026-05-24,C095,Desk,Furniture,South,3,601.97,0.0,1805.91,1228.02,577.89,Bilal
+1668,2026-05-04,C261,Monitor,Electronics,North,3,303.7,0.0,911.1,655.99,255.11,Ahmed
+1669,2026-05-01,C128,Laptop,Electronics,North,3,886.29,0.0,2658.87,2020.74,638.13,Fatima
+1670,2026-05-14,C261,Desk,Furniture,North,2,606.87,0.05,1153.05,825.34,327.71,Ayesha
+1671,2026-05-06,C205,Phone,Electronics,South,3,695.5,0.0,2086.5,1544.01,542.49,Fatima
+1672,2026-05-18,C198,Monitor,Electronics,East,2,302.58,0.05,574.9,435.72,139.18,Ahmed
+1673,2026-05-07,C190,Bookshelf,Furniture,North,2,398.47,0.05,757.09,510.04,247.05,Fatima
+1674,2026-05-12,C019,Monitor,Electronics,North,3,295.53,0.0,886.59,638.34,248.25,Fatima
+1675,2026-05-18,C185,Paper Box,Office Supplies,East,3,73.99,0.0,221.97,106.55,115.42,Ahmed
+1676,2026-05-05,C170,Laptop,Electronics,East,2,889.26,0.05,1689.59,1351.68,337.91,Ahmed
+1677,2026-05-25,C157,Toner,Office Supplies,North,3,151.87,0.0,455.61,255.14,200.47,Ayesha
+1678,2026-05-26,C231,Phone,Electronics,South,3,687.03,0.0,2061.09,1525.21,535.88,Bilal
+1679,2026-05-04,C061,Bookshelf,Furniture,South,2,394.63,0.05,749.8,505.13,244.67,Fatima
+1680,2026-05-23,C126,Laptop,Electronics,East,2,890.87,0.05,1692.65,1354.12,338.53,Bilal
+1681,2026-05-03,C224,Bookshelf,Furniture,North,3,406.59,0.0,1219.77,780.65,439.12,Sara
+1682,2026-05-21,C274,Paper Box,Office Supplies,North,3,74.89,0.0,224.67,107.84,116.83,Fatima
+1683,2026-05-01,C168,Bookshelf,Furniture,North,2,406.12,0.05,771.63,519.83,251.8,Fatima
+1684,2026-05-06,C235,Headphones,Electronics,North,2,119.12,0.05,226.33,154.86,71.47,Bilal
+1685,2026-05-10,C107,Phone,Electronics,North,2,698.1,0.05,1326.39,1033.19,293.2,Fatima
+1686,2026-05-22,C031,Bookshelf,Furniture,South,3,394.07,0.0,1182.21,756.61,425.6,Sara
+1687,2026-05-22,C097,Chair,Furniture,North,3,254.26,0.0,762.78,472.92,289.86,Sara
+1688,2026-05-13,C221,Bookshelf,Furniture,South,2,398.6,0.05,757.34,510.21,247.13,Bilal
+1689,2026-05-02,C064,Cabinet,Furniture,South,3,505.31,0.0,1515.93,1000.51,515.42,Bilal
+1690,2026-05-14,C173,Monitor,Electronics,East,2,294.14,0.05,558.87,423.56,135.31,Bilal
+1691,2026-05-24,C291,Headphones,Electronics,North,3,119.85,0.0,359.55,233.71,125.84,Ayesha
+1692,2026-05-06,C243,Laptop,Electronics,South,2,889.72,0.05,1690.47,1352.37,338.1,Ayesha
+1693,2026-05-11,C093,Printer,Office Supplies,East,2,302.33,0.05,574.43,374.89,199.54,Fatima
+1694,2026-05-14,C275,Chair,Furniture,South,3,247.48,0.0,742.44,460.31,282.13,Bilal
+1695,2026-05-02,C165,Printer,Office Supplies,North,3,299.53,0.0,898.59,557.13,341.46,Bilal
+1696,2026-05-01,C089,Paper Box,Office Supplies,South,3,74.91,0.0,224.73,107.87,116.86,Ayesha
+1697,2026-05-26,C227,Printer,Office Supplies,South,2,305.83,0.05,581.08,379.23,201.85,Fatima
+1698,2026-05-28,C203,Laptop,Electronics,South,3,910.54,0.0,2731.62,2076.03,655.59,Bilal
+1699,2026-05-09,C244,Bookshelf,Furniture,South,3,395.17,0.0,1185.51,758.73,426.78,Bilal
+1700,2026-05-13,C214,Desk,Furniture,North,3,606.34,0.0,1819.02,1236.93,582.09,Sara
+1701,2026-05-05,C167,Cabinet,Furniture,South,3,500.33,0.0,1500.99,990.65,510.34,Ahmed
+1702,2026-05-15,C025,Paper Box,Office Supplies,East,2,74.82,0.05,142.16,71.83,70.33,Fatima
+1703,2026-05-13,C292,Cabinet,Furniture,North,2,506.3,0.05,961.97,668.32,293.65,Sara
+1704,2026-05-06,C107,Toner,Office Supplies,South,3,148.69,0.0,446.07,249.8,196.27,Ahmed
+1705,2026-05-13,C263,Bookshelf,Furniture,North,3,398.64,0.0,1195.92,765.39,430.53,Bilal
+1706,2026-05-09,C245,Laptop,Electronics,South,3,917.54,0.0,2752.62,2091.99,660.63,Ahmed
+1707,2026-05-08,C109,Chair,Furniture,North,3,247.75,0.0,743.25,460.81,282.44,Sara
+1708,2026-05-01,C188,Paper Box,Office Supplies,North,2,75.91,0.05,144.23,72.87,71.36,Ayesha
+1709,2026-05-18,C270,Monitor,Electronics,South,2,294.52,0.05,559.59,424.11,135.48,Ahmed
+1710,2026-05-20,C244,Laptop,Electronics,South,3,882.11,0.0,2646.33,2011.21,635.12,Ali
+1711,2026-05-08,C095,Chair,Furniture,South,3,250.62,,751.86,466.15,285.71,Fatima
+1712,2026-05-11,C168,Headphones,Electronics,South,2,119.9,0.05,227.81,155.87,71.94,Sara
+1713,2026-05-22,C035,Desk,Furniture,South,3,604.3,0.0,1812.9,1232.77,580.13,Sara
+1714,2026-05-22,C020,Headphones,Electronics,South,3,121.23,0.0,363.69,236.4,127.29,Bilal
+1715,2026-05-20,C204,Toner,Office Supplies,North,2,150.28,0.05,285.53,168.31,117.22,Ahmed
+1716,2026-05-17,C141,Chair,Furniture,East,2,253.69,0.05,482.01,314.58,167.43,Ayesha
+1717,2026-05-22,C175,Desk,Furniture,North,2,607.49,0.05,1154.23,826.19,328.04,Ahmed
+1718,2026-05-19,C238,Printer,Office Supplies,South,3,300.69,0.0,902.07,559.28,342.79,Bilal
+1719,2026-05-08,C018,Cabinet,Furniture,North,3,495.83,0.0,1487.49,981.74,505.75,Ayesha
+1720,2026-05-17,C114,Phone,Electronics,East,3,708.18,0.0,2124.54,1572.16,552.38,Bilal
+1721,2026-05-06,C145,Printer,Office Supplies,East,2,304.35,0.05,578.26,377.39,200.87,Ayesha
+1722,2026-05-07,C150,Phone,Electronics,South,2,713.34,0.05,1355.35,1055.74,299.61,Ahmed
+1723,2026-05-18,C199,Headphones,Electronics,South,2,119.22,0.05,226.52,154.99,71.53,Ayesha
+1724,2026-05-03,C091,Chair,Furniture,North,3,249.07,0.0,747.21,463.27,283.94,Sara
+1725,2026-05-07,C288,Phone,Electronics,North,2,701.69,0.05,1333.21,1038.5,294.71,Ayesha
+1726,2026-05-13,C154,Headphones,Electronics,East,2,122.0,0.05,231.8,158.6,73.2,Ali
+1727,2026-05-07,C097,Laptop,Electronics,East,2,915.5,0.05,1739.45,1391.56,347.89,Ahmed
+1728,2026-05-09,C010,Monitor,Electronics,East,2,297.69,0.05,565.61,428.67,136.94,Fatima
+1729,2026-05-03,C180,Laptop,Electronics,South,3,891.65,0.0,2674.95,2032.96,641.99,Ali
+1730,2026-05-21,C061,Bookshelf,Furniture,North,2,397.24,0.05,754.76,508.47,246.29,Sara
+1731,2026-05-19,C258,Laptop,Electronics,South,2,901.44,0.05,1712.74,1370.19,342.55,Bilal
+1732,2026-05-21,C237,Bookshelf,Furniture,North,2,402.21,0.05,764.2,514.83,249.37,Sara
+1733,2026-05-14,C258,Phone,Electronics,South,2,688.15,0.05,1307.48,1018.46,289.02,Bilal
+1734,2026-05-13,C182,Headphones,Electronics,East,3,119.23,0.0,357.69,232.5,125.19,Sara
+1735,2026-05-05,C070,Paper Box,Office Supplies,East,2,75.82,0.05,144.06,72.79,71.27,Sara
+1736,2026-05-20,C273,Monitor,Electronics,East,2,303.87,0.05,577.35,437.57,139.78,Fatima
+1737,2026-05-01,C169,Desk,Furniture,North,2,607.25,0.05,1153.77,825.86,327.91,Ali
+1738,2026-05-21,C167,Laptop,Electronics,East,2,912.76,0.05,1734.24,1387.4,346.84,Ayesha
+1739,2026-05-15,C294,Toner,Office Supplies,South,2,152.72,0.05,290.17,171.05,119.12,Ayesha
+1740,2026-05-05,C123,Phone,Electronics,South,3,702.48,0.0,2107.44,1559.51,547.93,Ayesha
+1741,2026-05-21,C080,Monitor,Electronics,North,2,304.11,0.05,577.81,437.92,139.89,Ahmed
+1742,2026-05-25,C147,Monitor,Electronics,North,2,296.16,0.05,562.7,426.47,136.23,Fatima
+1743,2026-05-20,C204,Headphones,Electronics,East,2,120.16,0.05,228.3,156.21,72.09,Fatima
+1744,2026-05-21,C061,Stationery Kit,Office Supplies,East,2,101.24,0.05,192.36,101.24,91.12,Ali
+1745,2026-05-12,C148,Chair,Furniture,East,2,249.04,0.05,473.18,308.81,164.37,Ahmed
+1746,2026-05-16,C019,Monitor,Electronics,East,3,303.93,0.0,911.79,656.49,255.3,Ali
+1747,2026-05-26,C177,Chair,Furniture,South,2,253.58,0.05,481.8,314.44,167.36,Bilal
+1748,2026-05-03,C115,Cabinet,Furniture,South,3,491.41,0.0,1474.23,972.99,501.24,Ahmed
+1749,2026-05-08,C098,Cabinet,Furniture,South,2,491.42,0.05,933.7,648.67,285.03,Sara
+1750,2026-05-22,C132,Bookshelf,Furniture,East,3,407.43,0.0,1222.29,782.27,440.02,Ayesha
+1751,2026-06-19,C257,Laptop,Electronics,North,2,909.28,0.0,1818.56,1382.11,436.45,Ahmed
+1752,2026-06-11,C170,Laptop,Electronics,North,3,906.17,0.05,2582.58,2066.07,516.51,Ahmed
+1753,2026-06-17,C183,Laptop,Electronics,South,3,888.59,,2532.48,2025.99,506.49,Ayesha
+1754,2026-06-12,C030,Monitor,Electronics,South,3,303.54,0.05,865.09,655.65,209.44,Ahmed
+1755,2026-06-03,C201,Monitor,Electronics,East,3,305.14,0.05,869.65,659.1,210.55,Bilal
+1756,2026-06-27,C003,Chair,Furniture,North,2,247.37,0.0,494.74,306.74,188.0,Ayesha
+1757,2026-06-14,C029,Desk,Furniture,East,2,593.75,0.0,1187.5,807.5,380.0,Sara
+1758,2026-06-18,C048,Bookshelf,Furniture,North,2,398.51,0.0,797.02,510.09,286.93,Fatima
+1759,2026-06-12,C280,Headphones,Electronics,East,2,118.72,0.0,237.44,154.34,83.1,Ali
+1760,2026-06-04,C024,Bookshelf,Furniture,East,2,402.97,0.0,805.94,515.8,290.14,Sara
+1761,2026-06-19,C288,Printer,Office Supplies,North,3,297.03,0.05,846.54,552.48,294.06,Fatima
+1762,2026-06-23,C245,Phone,Electronics,North,2,704.09,0.0,1408.18,1042.05,366.13,Ahmed
+1763,2026-06-25,C071,Desk,Furniture,East,2,600.56,0.0,1201.12,816.76,384.36,Ahmed
+1764,2026-06-25,C241,Headphones,Electronics,North,3,118.34,0.05,337.27,230.76,106.51,Ali
+1765,2026-06-02,C083,Bookshelf,Furniture,East,3,404.0,0.05,1151.4,775.68,375.72,Sara
+1766,2026-06-13,C130,Paper Box,Office Supplies,South,2,75.08,0.0,150.16,72.08,78.08,Ahmed
+1767,2026-06-16,C270,Chair,Furniture,South,2,246.91,0.0,493.82,306.17,187.65,Ayesha
+1768,2026-06-12,C289,Chair,Furniture,North,3,248.87,0.05,709.28,462.9,246.38,Ahmed
+1769,2026-06-24,C114,Cabinet,Furniture,North,2,492.5,0.0,985.0,650.1,334.9,Ali
+1770,2026-06-23,C291,Monitor,Electronics,South,2,301.14,0.0,602.28,433.64,168.64,Ayesha
+1771,2026-06-12,C255,Monitor,Electronics,East,2,296.55,0.0,593.1,427.03,166.07,Bilal
+1772,2026-06-13,C023,Bookshelf,Furniture,East,3,405.67,0.05,1156.16,778.89,377.27,Fatima
+1773,2026-06-26,C158,Phone,Electronics,South,3,703.51,0.05,2005.0,1561.79,443.21,Ahmed
+1774,2026-06-12,C203,Printer,Office Supplies,North,2,304.58,0.0,609.16,377.68,231.48,Sara
+1775,2026-06-19,C100,Headphones,Electronics,East,2,120.4,0.0,240.8,156.52,84.28,Ahmed
+1776,2026-06-25,C092,Bookshelf,Furniture,North,3,394.76,0.05,1125.07,757.94,367.13,Ayesha
+1777,2026-06-04,C036,Bookshelf,Furniture,North,3,403.51,0.05,1150.0,774.74,375.26,Ali
+1778,2026-06-28,C235,Phone,Electronics,South,3,688.64,0.05,1962.62,1528.78,433.84,Ayesha
+1779,2026-06-17,C204,Chair,Furniture,East,3,248.41,0.05,707.97,462.04,245.93,Bilal
+1780,2026-06-28,C274,Toner,Office Supplies,South,2,148.53,0.0,297.06,166.35,130.71,Bilal
+1781,2026-06-01,C288,Bookshelf,Furniture,North,2,404.82,0.0,809.64,518.17,291.47,Ali
+1782,2026-06-27,C237,Phone,Electronics,South,3,688.54,0.05,1962.34,1528.56,433.78,Ahmed
+1783,2026-06-25,C134,Paper Box,Office Supplies,East,2,74.2,0.0,148.4,71.23,77.17,Ahmed
+1784,2026-06-02,C261,Chair,Furniture,North,2,254.79,0.0,509.58,315.94,193.64,Fatima
+1785,2026-06-25,C126,Stationery Kit,Office Supplies,North,2,98.28,0.0,196.56,98.28,98.28,Fatima
+1786,2026-06-11,C232,Cabinet,Furniture,North,2,494.47,0.0,988.94,652.7,336.24,Sara
+1787,2026-06-26,C036,Toner,Office Supplies,South,3,152.41,0.05,434.37,256.05,178.32,Bilal
+1788,2026-06-11,C060,Desk,Furniture,North,3,611.44,0.05,1742.6,1247.34,495.26,Sara
+1789,2026-06-06,C161,Printer,Office Supplies,East,3,305.79,0.05,871.5,568.77,302.73,Ayesha
+1790,2026-06-05,C192,Headphones,Electronics,East,3,120.87,0.05,344.48,235.7,108.78,Ahmed
+1791,2026-06-03,C069,Stationery Kit,Office Supplies,East,2,100.78,0.0,201.56,100.78,100.78,Fatima
+1792,2026-06-18,C067,Monitor,Electronics,East,3,299.44,0.05,853.4,646.79,206.61,Ahmed
+1793,2026-06-24,C003,Desk,Furniture,South,2,605.36,0.0,1210.72,823.29,387.43,Ali
+1794,2026-06-23,C003,Monitor,Electronics,North,2,302.11,0.0,604.22,435.04,169.18,Ahmed
+1795,2026-06-10,C152,Headphones,Electronics,South,2,119.13,0.0,238.26,154.87,83.39,Fatima
+1796,2026-06-08,C053,Cabinet,Furniture,South,2,493.1,0.0,986.2,650.89,335.31,Fatima
+1797,2026-06-01,C112,Laptop,Electronics,East,2,892.82,0.0,1785.64,1357.09,428.55,Ahmed
+1798,2026-06-03,C287,Printer,Office Supplies,North,3,295.48,0.05,842.12,549.59,292.53,Ayesha
+1799,2026-06-20,C250,Phone,Electronics,South,2,712.8,0.0,1425.6,1054.94,370.66,Ahmed
+1800,2026-06-08,C043,Phone,Electronics,South,3,690.1,0.05,1966.79,1532.02,434.77,Ali
+1801,2026-06-19,C036,Phone,Electronics,North,3,697.39,0.05,1987.56,1548.21,439.35,Ayesha
+1802,2026-06-24,C298,Phone,Electronics,North,2,695.57,0.0,1391.14,1029.44,361.7,Ahmed
+1803,2026-06-17,C203,Toner,Office Supplies,South,2,150.0,0.0,300.0,168.0,132.0,Sara
+1804,2026-06-21,C242,Toner,Office Supplies,North,2,147.93,0.0,295.86,165.68,130.18,Ayesha
+1805,2026-06-27,C165,Phone,Electronics,South,2,690.58,0.0,1381.16,1022.06,359.1,Fatima
+1806,2026-06-10,C156,Cabinet,Furniture,North,3,501.79,0.05,1430.1,993.54,436.56,Ayesha
+1807,2026-06-27,C272,Phone,Electronics,North,2,708.12,0.0,1416.24,1048.02,368.22,Ahmed
+1808,2026-06-07,C087,Headphones,Electronics,East,2,120.6,0.0,241.2,156.78,84.42,Ahmed
+1809,2026-06-07,C144,Laptop,Electronics,South,3,882.03,0.05,2513.79,2011.03,502.76,Ali
+1810,2026-06-23,C295,Laptop,Electronics,North,3,890.0,0.05,2536.5,2029.2,507.3,Fatima
+1811,2026-06-23,C249,Bookshelf,Furniture,South,3,406.41,0.05,1158.27,780.31,377.96,Fatima
+1812,2026-06-27,C195,Laptop,Electronics,East,3,914.28,0.05,2605.7,2084.56,521.14,Ayesha
+1813,2026-06-11,C265,Headphones,Electronics,South,14,117.93,0.0,1651.02,1073.16,577.86,Ayesha
+1814,2026-06-01,C103,Laptop,Electronics,North,3,900.65,0.05,2566.85,2053.48,513.37,Sara
+1815,2026-06-04,C172,Printer,Office Supplies,South,2,301.44,0.0,602.88,373.79,229.09,Sara
+1816,2026-06-04,C022,Cabinet,Furniture,East,3,490.97,0.05,1399.26,972.12,427.14,Sara
+1817,2026-06-22,C064,Toner,Office Supplies,South,3,147.09,0.05,419.21,247.11,172.1,Ali
+1818,2026-06-22,C116,Desk,Furniture,South,2,602.65,0.0,1205.3,819.6,385.7,Sara
+1819,2026-06-15,C148,Bookshelf,Furniture,North,2,401.9,0.0,803.8,514.43,289.37,Bilal
+1820,2026-06-02,C088,Monitor,Electronics,North,3,296.35,0.05,844.6,640.12,204.48,Sara
+1821,2026-06-23,C215,Laptop,Electronics,East,2,886.22,0.0,1772.44,1347.05,425.39,Sara
+1822,2026-06-22,C294,Laptop,Electronics,North,3,911.17,0.05,2596.83,2077.47,519.36,Sara
+1823,2026-06-28,C296,Laptop,Electronics,South,3,904.46,0.05,2577.71,2062.17,515.54,Ali
+1824,2026-06-08,C174,Printer,Office Supplies,South,3,298.34,0.05,850.27,554.91,295.36,Ahmed
+1825,2026-06-08,C219,Laptop,Electronics,North,3,893.47,0.05,2546.39,2037.11,509.28,Sara
+1826,2026-06-07,C113,Desk,Furniture,South,2,610.05,0.0,1220.1,829.67,390.43,Sara
+1827,2026-06-20,C139,Monitor,Electronics,South,3,297.26,0.05,847.19,642.08,205.11,Fatima
+1828,2026-06-14,C286,Printer,Office Supplies,South,2,300.16,0.0,600.32,372.2,228.12,Ayesha
+1829,2026-06-14,C178,Headphones,Electronics,East,3,121.94,0.05,347.53,237.78,109.75,Ahmed
+1830,2026-06-14,C224,Paper Box,Office Supplies,North,2,75.76,0.0,151.52,72.73,78.79,Bilal
+1831,2026-06-26,C294,Monitor,Electronics,North,2,304.18,0.0,608.36,438.02,170.34,Bilal
+1832,2026-06-08,C275,Chair,Furniture,East,2,249.71,0.0,499.42,309.64,189.78,Ahmed
+1833,2026-06-01,C255,Laptop,Electronics,East,2,915.72,0.0,1831.44,1391.89,439.55,Sara
+1834,2026-06-26,C016,Cabinet,Furniture,North,3,496.46,0.05,1414.91,982.99,431.92,Fatima
+1835,2026-06-25,C298,Chair,Furniture,East,3,251.6,0.05,717.06,467.98,249.08,Sara
+1836,2026-06-27,C190,Laptop,Electronics,North,3,886.43,0.05,2526.33,2021.06,505.27,Ayesha
+1837,2026-06-14,C195,Desk,Furniture,East,2,609.94,0.0,1219.88,829.52,390.36,Ayesha
+1838,2026-06-27,C117,Monitor,Electronics,South,3,297.42,0.05,847.65,642.43,205.22,Ali
+1839,2026-06-05,C272,Phone,Electronics,South,3,690.44,0.05,1967.75,1532.78,434.97,Ayesha
+1840,2026-06-10,C042,Headphones,Electronics,South,2,120.81,0.0,241.62,157.05,84.57,Ahmed
+1841,2026-06-10,C078,Laptop,Electronics,North,2,882.26,0.0,1764.52,1341.04,423.48,Ali
+1842,2026-06-22,C108,Phone,Electronics,North,3,690.74,0.05,1968.61,1533.44,435.17,Ayesha
+1843,2026-06-11,C161,Monitor,Electronics,South,2,304.22,0.0,608.44,438.08,170.36,Fatima
+1844,2026-06-04,C279,Phone,Electronics,East,2,687.76,0.0,1375.52,1017.88,357.64,Fatima
+1845,2026-06-19,C230,Chair,Furniture,North,2,249.79,0.0,499.58,309.74,189.84,Ayesha
+1846,2026-06-19,C261,Cabinet,Furniture,East,2,491.58,0.0,983.16,648.89,334.27,Ali
+1847,2026-06-28,C159,Cabinet,Furniture,South,3,507.8,0.05,1447.23,1005.44,441.79,Fatima
+1848,2026-06-12,C252,Stationery Kit,Office Supplies,North,2,98.44,0.0,196.88,98.44,98.44,Ahmed
+1849,2026-06-15,C179,Headphones,Electronics,North,3,120.15,0.05,342.43,234.29,108.14,Bilal
+1850,2026-06-16,C109,Stationery Kit,Office Supplies,South,2,100.54,0.0,201.08,100.54,100.54,Sara
+1851,2026-06-11,C160,Headphones,Electronics,South,3,120.78,0.05,344.22,235.52,108.7,Ayesha
+1852,2026-06-16,C195,Chair,Furniture,South,3,246.96,0.05,703.84,459.35,244.49,Sara
+1853,2026-06-06,C125,Phone,Electronics,North,2,707.48,0.0,1414.96,1047.07,367.89,Sara
+1854,2026-06-23,C119,Laptop,Electronics,East,2,902.08,0.0,1804.16,1371.16,433.0,Fatima
+1855,2026-06-18,C263,Chair,Furniture,North,3,254.65,0.05,725.75,473.65,252.1,Ali
+1856,2026-06-10,C127,Laptop,Electronics,South,2,914.48,0.0,1828.96,1390.01,438.95,Fatima
+1857,2026-06-26,C179,Desk,Furniture,South,3,599.46,0.05,1708.46,1222.9,485.56,Ahmed
+1858,2026-06-12,C221,Desk,Furniture,North,3,602.22,0.05,1716.33,1228.53,487.8,Ahmed
+1859,2026-06-11,C167,Monitor,Electronics,North,2,298.37,0.0,596.74,429.65,167.09,Fatima
+1860,2026-06-27,C088,Phone,Electronics,North,3,713.84,0.05,2034.44,1584.72,449.72,Ali
+1861,2026-06-18,C191,Toner,Office Supplies,North,3,152.35,0.05,434.2,255.95,178.25,Sara
+1862,2026-06-25,C052,Phone,Electronics,East,2,689.93,0.0,1379.86,1021.1,358.76,Ayesha
+1863,2026-06-18,C067,Toner,Office Supplies,South,2,149.59,0.0,299.18,167.54,131.64,Ayesha
+1864,2026-06-10,C254,Phone,Electronics,South,2,711.18,0.0,1422.36,1052.55,369.81,Bilal
+1865,2026-06-05,C128,Laptop,Electronics,North,2,901.27,0.0,1802.54,1369.93,432.61,Sara
+1866,2026-06-07,C234,Desk,Furniture,East,3,605.82,0.05,1726.59,1235.87,490.72,Fatima
+1867,2026-06-01,C110,Chair,Furniture,South,3,246.88,0.05,703.61,459.2,244.41,Sara
+1868,2026-06-09,C098,Paper Box,Office Supplies,North,3,75.06,0.05,213.92,108.09,105.83,Sara
+1869,2026-06-05,C242,Laptop,Electronics,North,2,899.23,0.0,1798.46,1366.83,431.63,Ali
+1870,2026-06-04,C200,Bookshelf,Furniture,North,2,394.65,0.0,789.3,505.15,284.15,Sara
+1871,2026-06-10,C293,Desk,Furniture,South,3,596.25,0.05,1699.31,1216.35,482.96,Fatima
+1872,2026-06-21,C176,Headphones,Electronics,South,3,120.3,0.05,342.85,234.58,108.27,Ali
+1873,2026-06-08,C184,Desk,Furniture,East,3,593.92,0.05,1692.67,1211.6,481.07,Ahmed
+1874,2026-06-06,C149,Stationery Kit,Office Supplies,South,3,99.4,0.05,283.29,149.1,134.19,Fatima
+1875,2026-06-24,C174,Monitor,Electronics,North,2,298.88,0.0,597.76,430.39,167.37,Ayesha
+1876,2026-06-01,C031,Chair,Furniture,South,2,247.16,0.0,494.32,306.48,187.84,Ayesha
+1877,2026-06-21,C293,Monitor,Electronics,East,2,295.22,0.0,590.44,425.12,165.32,Sara
+1878,2026-06-18,C040,Laptop,Electronics,East,2,900.59,0.0,1801.18,1368.9,432.28,Bilal
+1879,2026-06-21,C146,Paper Box,Office Supplies,East,3,75.08,0.05,213.98,108.12,105.86,Ahmed
+1880,2026-06-08,C132,Chair,Furniture,North,3,252.31,0.05,719.08,469.3,249.78,Ali
+1881,2026-06-25,C151,Stationery Kit,Office Supplies,East,3,98.12,0.05,279.64,147.18,132.46,Ali
+1882,2026-06-19,C101,Cabinet,Furniture,North,2,506.99,0.0,1013.98,669.23,344.75,Sara
+1883,2026-06-07,C251,Monitor,Electronics,North,3,295.54,0.05,842.29,638.37,203.92,Ali
+1884,2026-06-18,C223,Cabinet,Furniture,South,3,490.41,0.05,1397.67,971.01,426.66,Sara
+1885,2026-06-20,C275,Bookshelf,Furniture,East,2,394.39,0.0,788.78,504.82,283.96,Ahmed
+1886,2026-06-01,C075,Cabinet,Furniture,South,3,491.27,0.05,1400.12,972.71,427.41,Bilal
+1887,2026-06-14,C139,Monitor,Electronics,North,3,298.13,0.05,849.67,643.96,205.71,Ali
+1888,2026-06-24,C233,Paper Box,Office Supplies,East,3,75.83,0.05,216.12,109.2,106.92,Sara
+1889,2026-06-02,C154,Desk,Furniture,East,3,593.04,0.05,1690.16,1209.8,480.36,Ayesha
+1890,2026-06-11,C157,Cabinet,Furniture,South,2,495.21,0.0,990.42,653.68,336.74,Ali
+1891,2026-06-08,C039,Bookshelf,Furniture,North,3,402.68,0.05,1147.64,773.15,374.49,Ali
+1892,2026-06-16,C131,Cabinet,Furniture,East,2,507.38,0.0,1014.76,669.74,345.02,Bilal
+1893,2026-06-19,C132,Phone,Electronics,North,3,705.27,0.05,2010.02,1565.7,444.32,Ahmed
+1894,2026-06-15,C225,Bookshelf,Furniture,East,2,406.2,0.0,812.4,519.94,292.46,Fatima
+1895,2026-06-02,C081,Chair,Furniture,North,2,254.75,0.0,509.5,315.89,193.61,Ahmed
+1896,2026-06-20,C210,Stationery Kit,Office Supplies,South,3,98.27,0.05,280.07,147.41,132.66,Ali
+1897,2026-06-04,C183,Paper Box,Office Supplies,South,3,76.06,0.05,216.77,109.53,107.24,Sara
+1898,2026-06-06,C189,Paper Box,Office Supplies,North,2,73.54,0.0,147.08,70.6,76.48,Ayesha
+1899,2026-06-18,C191,Printer,Office Supplies,North,2,305.42,0.0,610.84,378.72,232.12,Ayesha
+1900,2026-06-17,C094,Desk,Furniture,North,2,599.44,0.0,1198.88,815.24,383.64,Ali
+1901,2026-07-28,C032,Laptop,Electronics,North,3,885.95,0.0,2657.85,2019.97,637.88,Fatima
+1902,2026-07-12,C269,Bookshelf,Furniture,East,2,394.34,,749.25,504.76,244.49,Fatima
+1903,2026-07-20,C297,Laptop,Electronics,East,3,912.72,0.0,2738.16,2081.0,657.16,Fatima
+1904,2026-07-10,C246,Toner,Office Supplies,East,3,147.87,0.0,443.61,248.42,195.19,Fatima
+1905,2026-07-10,C129,Laptop,Electronics,South,2,909.72,0.05,1728.47,1382.77,345.7,Ali
+1906,2026-07-18,C219,Bookshelf,Furniture,East,3,395.12,0.0,1185.36,758.63,426.73,Bilal
+1907,2026-07-18,C132,Chair,Furniture,South,2,253.74,0.05,482.11,314.64,167.47,Ali
+1908,2026-07-04,C124,Printer,Office Supplies,South,3,305.82,0.0,917.46,568.83,348.63,Ahmed
+1909,2026-07-16,C079,Monitor,Electronics,South,2,298.36,0.05,566.88,429.64,137.24,Fatima
+1910,2026-07-07,C123,Desk,Furniture,East,2,603.18,0.05,1146.04,820.32,325.72,Ayesha
+1911,2026-07-27,C218,Paper Box,Office Supplies,North,2,74.78,0.05,142.08,71.79,70.29,Ahmed
+1912,2026-07-19,C010,Monitor,Electronics,East,2,301.05,0.05,572.0,433.51,138.49,Fatima
+1913,2026-07-22,C299,Phone,Electronics,South,3,698.26,0.0,2094.78,1550.14,544.64,Ahmed
+1914,2026-07-21,C031,Headphones,Electronics,North,3,118.06,0.0,354.18,230.22,123.96,Fatima
+1915,2026-07-25,C006,Laptop,Electronics,South,3,882.73,0.0,2648.19,2012.62,635.57,Ayesha
+1916,2026-07-27,C142,Monitor,Electronics,North,3,294.03,0.0,882.09,635.1,246.99,Ahmed
+1917,2026-07-09,C234,Laptop,Electronics,South,3,897.8,0.0,2693.4,2046.98,646.42,Fatima
+1918,2026-07-28,C023,Stationery Kit,Office Supplies,East,2,100.17,0.05,190.32,100.17,90.15,Ahmed
+1919,2026-07-03,C147,Laptop,Electronics,North,2,885.2,0.05,1681.88,1345.5,336.38,Bilal
+1920,2026-07-01,C261,Bookshelf,Furniture,North,2,398.74,0.05,757.61,510.39,247.22,Sara
+1921,2026-07-13,C024,Phone,Electronics,South,2,696.76,0.05,1323.84,1031.2,292.64,Sara
+1922,2026-07-18,C043,Toner,Office Supplies,North,3,152.36,0.0,457.08,255.96,201.12,Sara
+1923,2026-07-11,C218,Toner,Office Supplies,South,2,150.08,0.05,285.15,168.09,117.06,Ahmed
+1924,2026-07-06,C261,Headphones,Electronics,East,2,121.94,0.05,231.69,158.52,73.17,Fatima
+1925,2026-07-24,C043,Cabinet,Furniture,North,3,498.09,0.0,1494.27,986.22,508.05,Ali
+1926,2026-07-20,C141,Phone,Electronics,North,3,704.98,0.0,2114.94,1565.06,549.88,Bilal
+1927,2026-07-13,C067,Bookshelf,Furniture,South,3,399.09,0.0,1197.27,766.25,431.02,Ali
+1928,2026-07-28,C163,Desk,Furniture,North,3,607.2,0.0,1821.6,1238.69,582.91,Ali
+1929,2026-07-26,C260,Desk,Furniture,South,2,608.03,0.05,1155.26,826.92,328.34,Ali
+1930,2026-07-18,C269,Toner,Office Supplies,South,2,150.58,0.05,286.1,168.65,117.45,Ali
+1931,2026-07-15,C141,Chair,Furniture,South,2,248.01,0.05,471.22,307.53,163.69,Ali
+1932,2026-07-25,C020,Printer,Office Supplies,North,3,303.1,0.0,909.3,563.77,345.53,Bilal
+1933,2026-07-05,C082,Laptop,Electronics,South,2,892.96,0.05,1696.62,1357.3,339.32,Ahmed
+1934,2026-07-02,C261,Laptop,Electronics,North,3,889.83,0.0,2669.49,2028.81,640.68,Sara
+1935,2026-07-22,C291,Stationery Kit,Office Supplies,North,3,100.98,0.0,302.94,151.47,151.47,Ahmed
+1936,2026-07-06,C054,Cabinet,Furniture,South,2,496.49,0.05,943.33,655.37,287.96,Ayesha
+1937,2026-07-26,C245,Cabinet,Furniture,South,2,492.82,0.05,936.36,650.52,285.84,Ali
+1938,2026-07-13,C108,Cabinet,Furniture,North,2,499.81,0.05,949.64,659.75,289.89,Ahmed
+1939,2026-07-26,C194,Headphones,Electronics,North,3,121.77,0.0,365.31,237.45,127.86,Bilal
+1940,2026-07-22,C051,Headphones,Electronics,East,3,120.56,0.0,361.68,235.09,126.59,Bilal
+1941,2026-07-23,C262,Headphones,Electronics,South,2,119.71,0.05,227.45,155.62,71.83,Fatima
+1942,2026-07-09,C119,Stationery Kit,Office Supplies,East,3,101.41,0.0,304.23,152.12,152.11,Ali
+1943,2026-07-16,C072,Phone,Electronics,North,2,698.92,0.05,1327.95,1034.4,293.55,Bilal
+1944,2026-07-09,C059,Monitor,Electronics,North,3,298.63,0.0,895.89,645.04,250.85,Ahmed
+1945,2026-07-10,C052,Stationery Kit,Office Supplies,North,3,101.93,0.0,305.79,152.9,152.89,Ayesha
+1946,2026-07-05,C252,Phone,Electronics,East,3,709.11,0.0,2127.33,1574.22,553.11,Bilal
+1947,2026-07-20,C148,Chair,Furniture,East,2,245.47,0.05,466.39,304.38,162.01,Ali
+1948,2026-07-16,C167,Cabinet,Furniture,North,3,499.12,0.0,1497.36,988.26,509.1,Fatima
+1949,2026-07-11,C033,Desk,Furniture,South,3,605.26,0.0,1815.78,1234.73,581.05,Sara
+1950,2026-07-17,C242,Monitor,Electronics,East,2,305.41,0.05,580.28,439.79,140.49,Ayesha
+1951,2026-07-16,C206,Bookshelf,Furniture,South,2,400.5,0.05,760.95,512.64,248.31,Ahmed
+1952,2026-07-03,C108,Toner,Office Supplies,East,2,148.52,0.05,282.19,166.34,115.85,Fatima
+1953,2026-07-07,C111,Laptop,Electronics,East,2,895.35,0.05,1701.16,1360.93,340.23,Ali
+1954,2026-07-19,C281,Printer,Office Supplies,North,2,298.37,0.05,566.9,369.98,196.92,Sara
+1955,2026-07-12,C261,Monitor,Electronics,South,3,300.02,0.0,900.06,648.04,252.02,Ahmed
+1956,2026-07-10,C038,Monitor,Electronics,North,2,299.03,0.05,568.16,430.6,137.56,Ali
+1957,2026-07-09,C046,Laptop,Electronics,East,2,910.14,0.05,1729.27,1383.41,345.86,Fatima
+1958,2026-07-18,C237,Chair,Furniture,North,3,246.36,0.0,739.08,458.23,280.85,Bilal
+1959,2026-07-17,C103,Monitor,Electronics,East,2,300.65,0.05,571.23,432.94,138.29,Bilal
+1960,2026-07-04,C250,Headphones,Electronics,North,3,119.12,0.0,357.36,232.28,125.08,Ahmed
+1961,2026-07-09,C205,Phone,Electronics,East,3,690.18,0.0,2070.54,1532.2,538.34,Ahmed
+1962,2026-07-15,C067,Monitor,Electronics,North,3,295.55,0.0,886.65,638.39,248.26,Fatima
+1963,2026-07-04,C133,Desk,Furniture,South,2,597.06,0.05,1134.41,812.0,322.41,Ali
+1964,2026-07-13,C108,Phone,Electronics,North,3,692.63,0.0,2077.89,1537.64,540.25,Bilal
+1965,2026-07-14,C026,Paper Box,Office Supplies,North,2,76.42,0.05,145.2,73.36,71.84,Ahmed
+1966,2026-07-02,C104,Paper Box,Office Supplies,East,2,73.83,0.05,140.28,70.88,69.4,Sara
+1967,2026-07-14,C256,Bookshelf,Furniture,East,2,397.97,0.05,756.14,509.4,246.74,Fatima
+1968,2026-07-20,C108,Laptop,Electronics,South,2,889.77,0.05,1690.56,1352.45,338.11,Ayesha
+1969,2026-07-24,C080,Monitor,Electronics,North,3,303.37,0.0,910.11,655.28,254.83,Sara
+1970,2026-07-14,C254,Chair,Furniture,East,3,250.15,0.0,750.45,465.28,285.17,Sara
+1971,2026-07-28,C024,Laptop,Electronics,South,3,895.25,0.0,2685.75,2041.17,644.58,Fatima
+1972,2026-07-07,C009,Desk,Furniture,North,2,592.12,0.05,1125.03,805.28,319.75,Ali
+1973,2026-07-27,C227,Printer,Office Supplies,East,2,304.99,0.05,579.48,378.19,201.29,Fatima
+1974,2026-07-03,C106,Desk,Furniture,East,2,598.67,0.05,1137.47,814.19,323.28,Bilal
+1975,2026-07-01,C250,Bookshelf,Furniture,South,2,401.0,0.05,761.9,513.28,248.62,Ali
+1976,2026-07-09,C191,Phone,Electronics,North,3,691.5,0.0,2074.5,1535.13,539.37,Fatima
+1977,2026-07-28,C037,Phone,Electronics,South,2,688.8,0.05,1308.72,1019.42,289.3,Fatima
+1978,2026-07-24,C080,Laptop,Electronics,East,2,882.45,0.05,1676.65,1341.32,335.33,Ahmed
+1979,2026-07-25,C189,Phone,Electronics,North,2,709.62,0.05,1348.28,1050.24,298.04,Ali
+1980,2026-07-16,C136,Headphones,Electronics,East,2,119.12,0.05,226.33,154.86,71.47,Ahmed
+1981,2026-07-21,C254,Stationery Kit,Office Supplies,South,2,99.78,0.05,189.58,99.78,89.8,Fatima
+1982,2026-07-19,C051,Headphones,Electronics,North,3,120.42,0.0,361.26,234.82,126.44,Ali
+1983,2026-07-26,C191,Desk,Furniture,North,2,605.38,0.05,1150.22,823.32,326.9,Sara
+1984,2026-07-14,C047,Paper Box,Office Supplies,North,3,75.17,0.0,225.51,108.24,117.27,Bilal
+1985,2026-07-20,C220,Desk,Furniture,North,3,608.94,0.0,1826.82,1242.24,584.58,Fatima
+1986,2026-07-13,C122,Phone,Electronics,South,2,697.45,0.05,1325.15,1032.23,292.92,Ayesha
+1987,2026-07-22,C060,Headphones,Electronics,South,2,120.48,0.05,228.91,156.62,72.29,Bilal
+1988,2026-07-09,C240,Laptop,Electronics,East,3,917.31,0.0,2751.93,2091.47,660.46,Sara
+1989,2026-07-01,C263,Bookshelf,Furniture,South,3,392.23,0.0,1176.69,753.08,423.61,Bilal
+1990,2026-07-13,C172,Printer,Office Supplies,South,3,300.51,0.0,901.53,558.95,342.58,Ahmed
+1991,2026-07-23,C125,Headphones,Electronics,South,2,120.63,0.05,229.2,156.82,72.38,Bilal
+1992,2026-07-11,C147,Phone,Electronics,North,3,702.68,0.0,2108.04,1559.95,548.09,Ali
+1993,2026-07-20,C114,Toner,Office Supplies,South,3,149.08,0.0,447.24,250.45,196.79,Sara
+1994,2026-07-04,C208,Monitor,Electronics,North,2,296.13,0.05,562.65,426.43,136.22,Bilal
+1995,2026-07-17,C280,Bookshelf,Furniture,South,3,394.71,0.0,1184.13,757.84,426.29,Sara
+1996,2026-07-12,C028,Phone,Electronics,South,2,707.51,0.05,1344.27,1047.11,297.16,Ayesha
+1997,2026-07-03,C086,Paper Box,Office Supplies,North,3,75.87,0.0,227.61,109.25,118.36,Ayesha
+1998,2026-07-26,C261,Cabinet,Furniture,South,3,492.56,0.0,1477.68,975.27,502.41,Ahmed
+1999,2026-07-28,C246,Chair,Furniture,North,2,254.38,0.05,483.32,315.43,167.89,Sara
+2000,2026-07-18,C193,Phone,Electronics,South,2,711.61,0.05,1352.06,1053.18,298.88,Ayesha
+2001,2026-07-04,C252,Monitor,Electronics,North,3,300.48,0.0,901.44,649.04,252.4,Bilal
+2002,2026-07-15,C190,Chair,Furniture,North,3,249.59,0.0,748.77,464.24,284.53,Bilal
+2003,2026-07-24,C226,Phone,Electronics,East,2,702.61,0.05,1334.96,1039.86,295.1,Ali
+2004,2026-07-02,C254,Chair,Furniture,North,3,246.34,0.0,739.02,458.19,280.83,Sara
+2005,2026-07-08,C028,Bookshelf,Furniture,South,3,400.49,0.0,1201.47,768.94,432.53,Ali
+2006,2026-07-13,C255,Laptop,Electronics,North,11,897.2,0.0,9869.2,7500.59,2368.61,Ali
+2007,2026-07-07,C257,Toner,Office Supplies,North,2,152.8,0.05,290.32,171.14,119.18,Sara
+2008,2026-07-24,C089,Monitor,Electronics,South,2,294.33,0.05,559.23,423.84,135.39,Ahmed
+2009,2026-07-06,C224,Desk,Furniture,South,3,599.08,0.0,1797.24,1222.12,575.12,Sara
+2010,2026-07-01,C253,Laptop,Electronics,East,2,889.63,0.05,1690.3,1352.24,338.06,Fatima
+2011,2026-07-23,C155,Bookshelf,Furniture,East,2,396.71,0.05,753.75,507.79,245.96,Ali
+2012,2026-07-20,C158,Printer,Office Supplies,South,2,298.72,0.05,567.57,370.41,197.16,Ahmed
+2013,2026-07-21,C064,Bookshelf,Furniture,North,3,406.23,0.0,1218.69,779.96,438.73,Sara
+2014,2026-07-03,C117,Printer,Office Supplies,North,2,304.14,0.05,577.87,377.13,200.74,Bilal
+2015,2026-07-17,C177,Chair,Furniture,East,3,254.43,0.0,763.29,473.24,290.05,Ali
+2016,2026-07-25,C166,Headphones,Electronics,North,3,119.49,0.0,358.47,233.01,125.46,Ayesha
+2017,2026-07-20,C209,Printer,Office Supplies,North,3,304.73,0.0,914.19,566.8,347.39,Ali
+2018,2026-07-03,C126,Phone,Electronics,East,3,692.65,0.0,2077.95,1537.68,540.27,Fatima
+2019,2026-07-16,C089,Phone,Electronics,North,2,691.48,0.05,1313.81,1023.39,290.42,Bilal
+2020,2026-07-18,C138,Stationery Kit,Office Supplies,East,2,99.71,0.05,189.45,99.71,89.74,Ahmed
+2021,2026-07-08,C212,Desk,Furniture,East,3,608.22,0.0,1824.66,1240.77,583.89,Bilal
+2022,2026-07-17,C143,Stationery Kit,Office Supplies,South,2,101.95,0.05,193.7,101.95,91.75,Ali
+2023,2026-07-28,C138,Laptop,Electronics,South,2,888.07,0.05,1687.33,1349.87,337.46,Fatima
+2024,2026-07-28,C286,Cabinet,Furniture,North,2,497.81,0.05,945.84,657.11,288.73,Ahmed
+2025,2026-07-19,C128,Laptop,Electronics,North,3,911.3,0.0,2733.9,2077.76,656.14,Bilal
+2026,2026-07-25,C246,Chair,Furniture,East,2,249.45,0.05,473.95,309.32,164.63,Fatima
+2027,2026-07-08,C023,Chair,Furniture,North,3,250.87,0.0,752.61,466.62,285.99,Ahmed
+2028,2026-07-17,C054,Chair,Furniture,South,2,254.53,0.05,483.61,315.62,167.99,Bilal
+2029,2026-07-26,C011,Paper Box,Office Supplies,North,3,76.3,0.0,228.9,109.87,119.03,Sara
+2030,2026-07-22,C161,Headphones,Electronics,North,2,119.43,0.05,226.92,155.26,71.66,Ahmed
+2031,2026-07-12,C036,Phone,Electronics,East,3,713.49,0.0,2140.47,1583.95,556.52,Bilal
+2032,2026-07-25,C280,Cabinet,Furniture,North,2,503.34,0.05,956.35,664.41,291.94,Ahmed
+2033,2026-07-18,C064,Laptop,Electronics,South,3,893.93,0.0,2681.79,2038.16,643.63,Bilal
+2034,2026-07-07,C213,Desk,Furniture,North,2,602.01,0.05,1143.82,818.73,325.09,Fatima
+2035,2026-07-16,C225,Monitor,Electronics,South,3,301.05,0.0,903.15,650.27,252.88,Bilal
+2036,2026-07-07,C230,Desk,Furniture,East,3,598.76,0.0,1796.28,1221.47,574.81,Bilal
+2037,2026-07-11,C196,Monitor,Electronics,East,2,297.82,0.05,565.86,428.86,137.0,Ali
+2038,2026-07-23,C167,Cabinet,Furniture,North,2,497.93,0.05,946.07,657.27,288.8,Fatima
+2039,2026-07-23,C063,Desk,Furniture,South,3,610.59,0.0,1831.77,1245.6,586.17,Fatima
+2040,2026-07-26,C136,Chair,Furniture,South,2,251.37,0.05,477.6,311.7,165.9,Ahmed
+2041,2026-07-09,C271,Bookshelf,Furniture,East,2,392.32,0.05,745.41,502.17,243.24,Sara
+2042,2026-07-25,C257,Monitor,Electronics,North,3,298.58,0.0,895.74,644.93,250.81,Sara
+2043,2026-07-04,C193,Chair,Furniture,North,3,251.45,0.0,754.35,467.7,286.65,Bilal
+2044,2026-07-11,C242,Cabinet,Furniture,North,3,501.15,0.0,1503.45,992.28,511.17,Ali
+2045,2026-07-03,C138,Paper Box,Office Supplies,South,2,74.62,0.05,141.78,71.64,70.14,Ahmed
+2046,2026-07-03,C212,Cabinet,Furniture,East,2,490.0,0.05,931.0,646.8,284.2,Ahmed
+2047,2026-07-18,C029,Laptop,Electronics,South,2,890.49,0.05,1691.93,1353.54,338.39,Ali
+2048,2026-07-11,C245,Paper Box,Office Supplies,North,3,76.33,0.0,228.99,109.92,119.07,Ayesha
+2049,2026-07-12,C012,Cabinet,Furniture,South,3,495.07,0.0,1485.21,980.24,504.97,Sara
+2050,2026-07-14,C177,Cabinet,Furniture,East,3,490.82,0.0,1472.46,971.82,500.64,Ali
+2051,2026-08-16,C277,Phone,Electronics,East,3,698.94,0.05,1991.98,1551.65,440.33,Sara
+2052,2026-08-21,C107,Toner,Office Supplies,East,2,149.45,0.0,298.9,167.38,131.52,Ahmed
+2053,2026-08-01,C023,Paper Box,Office Supplies,North,2,73.75,0.0,147.5,70.8,76.7,Ahmed
+2054,2026-08-12,C263,Desk,Furniture,South,2,611.78,0.0,1223.56,832.02,391.54,Fatima
+2055,2026-08-25,C189,Bookshelf,Furniture,East,3,406.54,0.05,1158.64,780.56,378.08,Ayesha
+2056,2026-08-23,C104,Chair,Furniture,South,2,247.66,0.0,495.32,307.1,188.22,Ayesha
+2057,2026-08-23,C161,Bookshelf,Furniture,East,2,398.95,0.0,797.9,510.66,287.24,Sara
+2058,2026-08-11,C216,Monitor,Electronics,South,3,294.95,0.05,840.61,637.09,203.52,Fatima
+2059,2026-08-03,C013,Cabinet,Furniture,South,2,492.67,0.0,985.34,650.32,335.02,Ali
+2060,2026-08-15,C219,Phone,Electronics,South,2,690.65,0.0,1381.3,1022.16,359.14,Fatima
+2061,2026-08-28,C052,Stationery Kit,Office Supplies,East,3,99.7,0.05,284.14,149.55,134.59,Sara
+2062,2026-08-21,C152,Phone,Electronics,North,2,705.59,0.0,1411.18,1044.27,366.91,Ali
+2063,2026-08-02,C132,Bookshelf,Furniture,North,2,397.42,0.0,794.84,508.7,286.14,Bilal
+2064,2026-08-27,C181,Paper Box,Office Supplies,North,3,73.8,0.05,210.33,106.27,104.06,Fatima
+2065,2026-08-03,C227,Phone,Electronics,East,2,705.79,0.0,1411.58,1044.57,367.01,Ayesha
+2066,2026-08-20,C119,Printer,Office Supplies,South,3,305.27,0.05,870.02,567.8,302.22,Ayesha
+2067,2026-08-04,C284,Bookshelf,Furniture,North,2,393.59,0.0,787.18,503.8,283.38,Bilal
+2068,2026-08-26,C284,Phone,Electronics,South,3,697.25,0.05,1987.16,1547.89,439.27,Sara
+2069,2026-08-14,C296,Chair,Furniture,South,3,254.11,0.05,724.21,472.64,251.57,Ayesha
+2070,2026-08-17,C251,Headphones,Electronics,East,2,119.65,0.0,239.3,155.55,83.75,Fatima
+2071,2026-08-10,C079,Cabinet,Furniture,East,3,498.7,0.05,1421.29,987.43,433.86,Sara
+2072,2026-08-06,C235,Headphones,Electronics,North,2,120.27,0.0,240.54,156.35,84.19,Sara
+2073,2026-08-16,C184,Monitor,Electronics,East,2,295.98,0.0,591.96,426.21,165.75,Ahmed
+2074,2026-08-05,C033,Desk,Furniture,East,3,589.96,0.05,1681.39,1203.52,477.87,Ayesha
+2075,2026-08-21,C036,Printer,Office Supplies,North,3,296.0,0.05,843.6,550.56,293.04,Ali
+2076,2026-08-20,C257,Chair,Furniture,North,2,252.39,0.0,504.78,312.96,191.82,Fatima
+2077,2026-08-03,C168,Bookshelf,Furniture,South,2,406.57,0.0,813.14,520.41,292.73,Bilal
+2078,2026-08-01,C269,Bookshelf,Furniture,South,3,404.96,0.05,1154.14,777.52,376.62,Ayesha
+2079,2026-08-01,C194,Stationery Kit,Office Supplies,North,2,99.24,0.0,198.48,99.24,99.24,Bilal
+2080,2026-08-28,C182,Chair,Furniture,East,3,249.27,0.05,710.42,463.64,246.78,Ali
+2081,2026-08-13,C099,Chair,Furniture,East,2,253.39,0.0,506.78,314.2,192.58,Ali
+2082,2026-08-07,C076,Headphones,Electronics,South,3,119.05,0.05,339.29,232.15,107.14,Sara
+2083,2026-08-10,C258,Cabinet,Furniture,East,2,509.0,0.0,1018.0,671.88,346.12,Sara
+2084,2026-08-27,C228,Bookshelf,Furniture,North,3,396.59,0.05,1130.28,761.45,368.83,Bilal
+2085,2026-08-16,C156,Phone,Electronics,North,3,704.55,0.05,2007.97,1564.1,443.87,Fatima
+2086,2026-08-28,C019,Toner,Office Supplies,East,3,148.53,0.05,423.31,249.53,173.78,Fatima
+2087,2026-08-19,C296,Desk,Furniture,North,2,592.27,0.0,1184.54,805.49,379.05,Ahmed
+2088,2026-08-19,C180,Monitor,Electronics,East,2,301.99,0.0,603.98,434.87,169.11,Ayesha
+2089,2026-08-19,C099,Monitor,Electronics,South,3,305.1,0.05,869.53,659.02,210.51,Sara
+2090,2026-08-10,C012,Laptop,Electronics,South,3,889.64,0.05,2535.47,2028.38,507.09,Bilal
+2091,2026-08-20,C104,Laptop,Electronics,North,2,909.36,0.0,1818.72,1382.23,436.49,Sara
+2092,2026-08-18,C193,Laptop,Electronics,South,3,914.0,0.05,2604.9,2083.92,520.98,Ayesha
+2093,2026-08-13,C189,Laptop,Electronics,South,2,889.6,0.0,1779.2,1352.19,427.01,Ahmed
+2094,2026-08-11,C170,Laptop,Electronics,North,3,899.66,0.05,2564.03,2051.22,512.81,Fatima
+2095,2026-08-10,C105,Chair,Furniture,North,2,254.9,0.0,509.8,316.08,193.72,Ayesha
+2096,2026-08-27,C265,Laptop,Electronics,North,2,917.68,0.0,1835.36,1394.87,440.49,Fatima
+2097,2026-08-13,C176,Stationery Kit,Office Supplies,East,2,101.61,0.0,203.22,101.61,101.61,Ayesha
+2098,2026-08-24,C159,Monitor,Electronics,North,3,300.89,0.05,857.54,649.92,207.62,Fatima
+2099,2026-08-18,C053,Stationery Kit,Office Supplies,East,3,100.94,0.05,287.68,151.41,136.27,Bilal
+2100,2026-08-10,C242,Headphones,Electronics,East,2,120.49,0.0,240.98,156.64,84.34,Sara
+2101,2026-08-15,C056,Toner,Office Supplies,North,3,151.07,0.05,430.55,253.8,176.75,Sara
+2102,2026-08-13,C110,Monitor,Electronics,East,2,296.32,0.0,592.64,426.7,165.94,Sara
+2103,2026-08-17,C048,Desk,Furniture,South,2,608.16,0.0,1216.32,827.1,389.22,Ali
+2104,2026-08-06,C213,Printer,Office Supplies,East,3,301.24,0.05,858.53,560.31,298.22,Sara
+2105,2026-08-08,C035,Monitor,Electronics,North,3,303.74,0.05,865.66,656.08,209.58,Ali
+2106,2026-08-25,C010,Laptop,Electronics,North,3,906.81,0.05,2584.41,2067.53,516.88,Ayesha
+2107,2026-08-16,C295,Headphones,Electronics,South,3,119.92,0.05,341.77,233.84,107.93,Bilal
+2108,2026-08-11,C122,Desk,Furniture,South,2,594.5,0.0,1189.0,808.52,380.48,Ali
+2109,2026-08-17,C283,Monitor,Electronics,North,2,296.28,0.0,592.56,426.64,165.92,Ali
+2110,2026-08-02,C066,Chair,Furniture,North,3,252.08,0.05,718.43,468.87,249.56,Fatima
+2111,2026-08-12,C170,Cabinet,Furniture,South,2,492.04,0.0,984.08,649.49,334.59,Bilal
+2112,2026-08-17,C066,Bookshelf,Furniture,South,3,403.39,0.05,1149.66,774.51,375.15,Fatima
+2113,2026-08-20,C064,Paper Box,Office Supplies,South,2,75.21,0.0,150.42,72.2,78.22,Ali
+2114,2026-08-20,C293,Stationery Kit,Office Supplies,North,3,101.73,0.05,289.93,152.59,137.34,Sara
+2115,2026-08-05,C163,Laptop,Electronics,North,2,889.78,0.0,1779.56,1352.47,427.09,Sara
+2116,2026-08-12,C153,Laptop,Electronics,East,3,882.04,0.05,2513.81,2011.05,502.76,Ahmed
+2117,2026-08-05,C153,Desk,Furniture,East,2,597.22,0.0,1194.44,812.22,382.22,Bilal
+2118,2026-08-15,C010,Laptop,Electronics,North,2,916.58,0.0,1833.16,1393.2,439.96,Fatima
+2119,2026-08-25,C126,Paper Box,Office Supplies,South,3,74.0,0.05,210.9,106.56,104.34,Ahmed
+2120,2026-08-17,C295,Cabinet,Furniture,North,2,501.7,0.0,1003.4,662.24,341.16,Ali
+2121,2026-08-09,C111,Printer,Office Supplies,East,2,303.44,0.0,606.88,376.27,230.61,Fatima
+2122,2026-08-28,C295,Paper Box,Office Supplies,North,2,74.33,0.0,148.66,71.36,77.3,Sara
+2123,2026-08-26,C093,Paper Box,Office Supplies,South,3,75.74,0.05,215.86,109.07,106.79,Fatima
+2124,2026-08-08,C152,Stationery Kit,Office Supplies,North,2,100.75,0.0,201.5,100.75,100.75,Fatima
+2125,2026-08-28,C261,Phone,Electronics,North,3,713.35,0.05,2033.05,1583.64,449.41,Fatima
+2126,2026-08-17,C125,Chair,Furniture,East,3,254.66,0.05,725.78,473.67,252.11,Sara
+2127,2026-08-14,C233,Bookshelf,Furniture,East,3,397.63,0.05,1133.25,763.45,369.8,Ahmed
+2128,2026-08-10,C122,Phone,Electronics,East,2,704.54,0.0,1409.08,1042.72,366.36,Sara
+2129,2026-08-24,C262,Laptop,Electronics,North,2,901.33,0.0,1802.66,1370.02,432.64,Ayesha
+2130,2026-08-12,C243,Printer,Office Supplies,South,3,303.77,0.05,865.74,565.01,300.73,Fatima
+2131,2026-08-21,C070,Desk,Furniture,North,2,604.15,0.0,1208.3,821.64,386.66,Bilal
+2132,2026-08-25,C235,Desk,Furniture,South,3,590.63,0.05,1683.3,1204.89,478.41,Ayesha
+2133,2026-08-10,C114,Desk,Furniture,North,3,588.27,0.05,1676.57,1200.07,476.5,Ali
+2134,2026-08-03,C189,Phone,Electronics,North,2,687.84,0.0,1375.68,1018.0,357.68,Ayesha
+2135,2026-08-28,C072,Headphones,Electronics,North,3,118.14,0.05,336.7,230.37,106.33,Fatima
+2136,2026-08-03,C296,Monitor,Electronics,North,3,295.44,0.05,842.0,638.15,203.85,Ayesha
+2137,2026-08-08,C002,Printer,Office Supplies,East,2,299.38,0.0,598.76,371.23,227.53,Fatima
+2138,2026-08-12,C007,Monitor,Electronics,East,2,304.63,0.0,609.26,438.67,170.59,Fatima
+2139,2026-08-04,C138,Bookshelf,Furniture,South,3,394.37,0.05,1123.95,757.19,366.76,Ali
+2140,2026-08-22,C148,Headphones,Electronics,East,3,121.45,0.05,346.13,236.83,109.3,Ayesha
+2141,2026-08-28,C092,Chair,Furniture,North,2,245.64,0.0,491.28,304.59,186.69,Ayesha
+2142,2026-08-18,C267,Headphones,Electronics,North,2,121.17,0.0,242.34,157.52,84.82,Ahmed
+2143,2026-08-01,C228,Toner,Office Supplies,North,2,151.66,0.0,303.32,169.86,133.46,Fatima
+2144,2026-08-25,C087,Monitor,Electronics,South,3,295.32,0.05,841.66,637.89,203.77,Ayesha
+2145,2026-08-18,C151,Chair,Furniture,North,3,246.99,0.05,703.92,459.4,244.52,Ahmed
+2146,2026-08-08,C255,Phone,Electronics,South,3,688.58,0.05,1962.45,1528.65,433.8,Ayesha
+2147,2026-08-13,C136,Laptop,Electronics,North,2,904.8,0.0,1809.6,1375.3,434.3,Bilal
+2148,2026-08-10,C201,Monitor,Electronics,South,3,296.36,0.05,844.63,640.14,204.49,Bilal
+2149,2026-08-12,C245,Cabinet,Furniture,North,3,493.49,0.05,1406.45,977.11,429.34,Sara
+2150,2026-08-07,C260,Phone,Electronics,North,2,693.52,0.0,1387.04,1026.41,360.63,Ali
+2151,2026-08-10,C073,Phone,Electronics,South,3,697.23,0.05,1987.11,1547.85,439.26,Ali
+2152,2026-08-17,C092,Monitor,Electronics,East,2,299.78,0.0,599.56,431.68,167.88,Ahmed
+2153,2026-08-07,C085,Desk,Furniture,North,3,592.25,0.05,1687.91,1208.19,479.72,Ali
+2154,2026-08-16,C154,Phone,Electronics,South,3,688.43,0.05,1962.03,1528.31,433.72,Fatima
+2155,2026-08-07,C249,Desk,Furniture,East,3,609.71,0.05,1737.67,1243.81,493.86,Ali
+2156,2026-08-04,C163,Chair,Furniture,South,2,252.98,0.0,505.96,313.7,192.26,Ahmed
+2157,2026-08-09,C062,Phone,Electronics,South,2,708.27,0.0,1416.54,1048.24,368.3,Fatima
+2158,2026-08-04,C064,Laptop,Electronics,East,3,903.59,0.05,2575.23,2060.19,515.04,Sara
+2159,2026-08-25,C012,Desk,Furniture,South,3,594.83,0.05,1695.27,1213.45,481.82,Ayesha
+2160,2026-08-13,C003,Laptop,Electronics,South,3,884.7,0.05,2521.4,2017.12,504.28,Ayesha
+2161,2026-08-06,C290,Phone,Electronics,South,2,693.95,0.0,1387.9,1027.05,360.85,Ali
+2162,2026-08-26,C081,Toner,Office Supplies,North,2,152.4,0.0,304.8,170.69,134.11,Bilal
+2163,2026-08-18,C046,Cabinet,Furniture,South,3,496.13,0.05,1413.97,982.34,431.63,Fatima
+2164,2026-08-18,C197,Desk,Furniture,North,3,590.1,0.05,1681.79,1203.8,477.99,Ahmed
+2165,2026-08-20,C217,Monitor,Electronics,East,3,305.3,0.05,870.11,659.45,210.66,Ahmed
+2166,2026-08-27,C293,Paper Box,Office Supplies,North,2,74.28,0.0,148.56,71.31,77.25,Bilal
+2167,2026-08-21,C282,Laptop,Electronics,South,3,913.01,0.05,2602.08,2081.66,520.42,Sara
+2168,2026-08-07,C023,Laptop,Electronics,North,2,898.39,0.0,1796.78,1365.55,431.23,Sara
+2169,2026-08-28,C274,Chair,Furniture,North,2,246.31,0.0,492.62,305.42,187.2,Ayesha
+2170,2026-08-25,C221,Bookshelf,Furniture,East,2,406.45,0.0,812.9,520.26,292.64,Sara
+2171,2026-08-23,C043,Laptop,Electronics,North,3,914.24,0.05,2605.58,2084.47,521.11,Fatima
+2172,2026-08-16,C048,Cabinet,Furniture,South,3,500.88,0.05,1427.51,991.74,435.77,Ali
+2173,2026-08-17,C036,Chair,Furniture,North,3,247.84,0.05,706.34,460.98,245.36,Bilal
+2174,2026-08-03,C204,Headphones,Electronics,South,2,122.08,0.0,244.16,158.7,85.46,Fatima
+2175,2026-08-18,C170,Bookshelf,Furniture,South,2,395.98,0.0,791.96,506.85,285.11,Fatima
+2176,2026-08-19,C216,Cabinet,Furniture,East,3,508.74,0.05,1449.91,1007.31,442.6,Ahmed
+2177,2026-08-08,C222,Laptop,Electronics,North,2,902.45,0.0,1804.9,1371.72,433.18,Ali
+2178,2026-08-06,C090,Phone,Electronics,South,3,708.24,0.05,2018.48,1572.29,446.19,Ahmed
+2179,2026-08-19,C095,Printer,Office Supplies,North,2,299.19,0.0,598.38,371.0,227.38,Ayesha
+2180,2026-08-08,C273,Headphones,Electronics,North,2,120.91,0.0,241.82,157.18,84.64,Ayesha
+2181,2026-08-06,C087,Cabinet,Furniture,South,3,508.76,0.05,1449.97,1007.34,442.63,Ayesha
+2182,2026-08-16,C253,Chair,Furniture,East,3,254.35,0.05,724.9,473.09,251.81,Ahmed
+2183,2026-08-05,C105,Cabinet,Furniture,East,2,506.18,0.0,1012.36,668.16,344.2,Ali
+2184,2026-08-23,C150,Phone,Electronics,East,2,688.27,0.0,1376.54,1018.64,357.9,Bilal
+2185,2026-08-16,C057,Bookshelf,Furniture,South,2,394.19,0.0,788.38,504.56,283.82,Ahmed
+2186,2026-08-28,C262,Cabinet,Furniture,North,2,490.96,0.0,981.92,648.07,333.85,Sara
+2187,2026-08-24,C236,Stationery Kit,Office Supplies,North,2,100.82,0.0,201.64,100.82,100.82,Ahmed
+2188,2026-08-25,C116,Laptop,Electronics,South,3,885.72,0.05,2524.3,2019.44,504.86,Sara
+2189,2026-08-06,C078,Toner,Office Supplies,South,2,148.63,0.0,297.26,166.47,130.79,Ahmed
+2190,2026-08-22,C057,Toner,Office Supplies,South,3,151.15,0.05,430.78,253.93,176.85,Bilal
+2191,2026-08-27,C107,Desk,Furniture,East,2,596.31,0.0,1192.62,810.98,381.64,Ayesha
+2192,2026-08-02,C031,Headphones,Electronics,North,3,120.7,0.05,344.0,235.37,108.63,Ali
+2193,2026-08-07,C017,Monitor,Electronics,North,2,295.44,0.0,590.88,425.43,165.45,Sara
+2194,2026-08-09,C170,Cabinet,Furniture,South,2,506.52,0.0,1013.04,668.61,344.43,Sara
+2195,2026-08-26,C149,Headphones,Electronics,South,3,118.66,0.05,338.18,231.39,106.79,Sara
+2196,2026-08-17,C244,Paper Box,Office Supplies,North,3,75.38,0.05,214.83,108.55,106.28,Sara
+2197,2026-08-17,C112,Printer,Office Supplies,North,2,297.04,0.0,594.08,368.33,225.75,Sara
+2198,2026-08-26,C133,Phone,Electronics,East,3,688.18,0.05,1961.31,1527.76,433.55,Ali
+2199,2026-08-04,C168,Laptop,Electronics,North,2,906.19,0.0,1812.38,1377.41,434.97,Bilal
+2200,2026-08-07,C258,Monitor,Electronics,South,2,299.06,0.0,598.12,430.65,167.47,Fatima
+2201,2026-09-17,C189,Headphones,Electronics,North,3,122.19,0.0,366.57,238.27,128.3,Ayesha
+2202,2026-09-20,C117,Phone,Electronics,South,3,692.24,0.0,2076.72,1536.77,539.95,Ali
+2203,2026-09-18,C053,Desk,Furniture,North,3,591.24,0.0,1773.72,1206.13,567.59,Sara
+2204,2026-09-26,C217,Monitor,Electronics,East,2,303.93,0.05,577.47,437.66,139.81,Bilal
+2205,2026-09-26,C087,Paper Box,Office Supplies,South,3,75.37,0.0,226.11,108.53,117.58,Ali
+2206,2026-09-20,C239,Monitor,Electronics,East,3,296.66,0.0,889.98,640.79,249.19,Ayesha
+2207,2026-09-11,C219,Laptop,Electronics,South,3,910.96,0.0,2732.88,2076.99,655.89,Ayesha
+2208,2026-09-03,C168,Bookshelf,Furniture,South,3,396.46,0.0,1189.38,761.2,428.18,Ayesha
+2209,2026-09-08,C222,Toner,Office Supplies,East,2,151.38,0.05,287.62,169.55,118.07,Bilal
+2210,2026-09-15,C117,Toner,Office Supplies,East,3,149.27,0.0,447.81,250.77,197.04,Ahmed
+2211,2026-09-22,C019,Desk,Furniture,East,3,598.6,0.0,1795.8,1221.14,574.66,Bilal
+2212,2026-09-24,C030,Stationery Kit,Office Supplies,East,2,100.71,0.05,191.35,100.71,90.64,Ayesha
+2213,2026-09-02,C175,Monitor,Electronics,South,2,299.41,0.05,568.88,431.15,137.73,Sara
+2214,2026-09-15,C293,Laptop,Electronics,South,3,907.18,0.0,2721.54,2068.37,653.17,Ayesha
+2215,2026-09-16,C088,Stationery Kit,Office Supplies,North,3,99.7,0.0,299.1,149.55,149.55,Sara
+2216,2026-09-25,C287,Phone,Electronics,North,2,711.67,0.05,1352.17,1053.27,298.9,Sara
+2217,2026-09-26,C291,Monitor,Electronics,North,3,303.08,0.0,909.24,654.65,254.59,Bilal
+2218,2026-09-14,C047,Laptop,Electronics,North,3,886.55,0.0,2659.65,2021.33,638.32,Sara
+2219,2026-09-06,C052,Monitor,Electronics,East,3,295.96,0.0,887.88,639.27,248.61,Ahmed
+2220,2026-09-02,C066,Printer,Office Supplies,South,2,303.68,0.05,576.99,376.56,200.43,Ali
+2221,2026-09-28,C286,Chair,Furniture,South,2,254.18,0.05,482.94,315.18,167.76,Ayesha
+2222,2026-09-11,C127,Desk,Furniture,East,3,605.36,0.0,1816.08,1234.93,581.15,Fatima
+2223,2026-09-03,C196,Monitor,Electronics,East,2,296.7,0.05,563.73,427.25,136.48,Ali
+2224,2026-09-24,C200,Phone,Electronics,South,2,709.32,0.05,1347.71,1049.79,297.92,Fatima
+2225,2026-09-08,C212,Cabinet,Furniture,East,2,499.66,0.05,949.35,659.55,289.8,Ahmed
+2226,2026-09-17,C175,Headphones,Electronics,East,3,121.41,0.0,364.23,236.75,127.48,Ahmed
+2227,2026-09-15,C085,Headphones,Electronics,North,2,118.84,0.05,225.8,154.49,71.31,Ahmed
+2228,2026-09-27,C256,Stationery Kit,Office Supplies,South,2,98.9,0.05,187.91,98.9,89.01,Ali
+2229,2026-09-22,C199,Phone,Electronics,East,2,697.97,0.05,1326.14,1033.0,293.14,Ali
+2230,2026-09-12,C022,Monitor,Electronics,East,3,304.15,0.0,912.45,656.96,255.49,Bilal
+2231,2026-09-16,C215,Desk,Furniture,North,2,609.01,0.05,1157.12,828.25,328.87,Sara
+2232,2026-09-19,C117,Desk,Furniture,South,2,606.96,0.05,1153.22,825.47,327.75,Sara
+2233,2026-09-10,C013,Headphones,Electronics,East,3,118.38,0.0,355.14,230.84,124.3,Ahmed
+2234,2026-09-13,C042,Bookshelf,Furniture,East,2,396.73,0.05,753.79,507.81,245.98,Ali
+2235,2026-09-16,C269,Monitor,Electronics,North,2,294.96,0.05,560.42,424.74,135.68,Ali
+2236,2026-09-28,C280,Bookshelf,Furniture,East,3,402.9,0.0,1208.7,773.57,435.13,Ayesha
+2237,2026-09-17,C150,Cabinet,Furniture,North,3,490.24,0.0,1470.72,970.68,500.04,Sara
+2238,2026-09-20,C090,Laptop,Electronics,North,3,891.19,0.0,2673.57,2031.91,641.66,Ali
+2239,2026-09-12,C212,Desk,Furniture,North,2,599.05,0.05,1138.19,814.71,323.48,Ali
+2240,2026-09-19,C039,Chair,Furniture,South,3,251.76,0.0,755.28,468.27,287.01,Sara
+2241,2026-09-01,C197,Printer,Office Supplies,East,3,296.52,0.0,889.56,551.53,338.03,Ahmed
+2242,2026-09-27,C223,Toner,Office Supplies,South,3,147.88,0.0,443.64,248.44,195.2,Ali
+2243,2026-09-01,C171,Printer,Office Supplies,South,3,300.96,0.0,902.88,559.79,343.09,Ayesha
+2244,2026-09-17,C158,Monitor,Electronics,North,2,295.38,0.05,561.22,425.35,135.87,Ali
+2245,2026-09-21,C236,Printer,Office Supplies,North,2,294.15,0.05,558.88,364.75,194.13,Ahmed
+2246,2026-09-18,C120,Laptop,Electronics,North,2,892.61,0.05,1695.96,1356.77,339.19,Ali
+2247,2026-09-03,C284,Bookshelf,Furniture,East,2,394.51,0.05,749.57,504.97,244.6,Bilal
+2248,2026-09-05,C076,Stationery Kit,Office Supplies,North,2,100.23,0.05,190.44,100.23,90.21,Ayesha
+2249,2026-09-10,C116,Phone,Electronics,North,2,710.37,0.05,1349.7,1051.35,298.35,Fatima
+2250,2026-09-05,C113,Bookshelf,Furniture,East,2,400.05,0.05,760.1,512.06,248.04,Ali
+2251,2026-09-13,C211,Stationery Kit,Office Supplies,South,3,98.48,0.0,295.44,147.72,147.72,Ahmed
+2252,2026-09-01,C074,Headphones,Electronics,South,2,122.01,0.05,231.82,158.61,73.21,Bilal
+2253,2026-09-21,C142,Cabinet,Furniture,North,2,506.24,0.05,961.86,668.24,293.62,Sara
+2254,2026-09-18,C276,Cabinet,Furniture,East,3,505.1,0.0,1515.3,1000.1,515.2,Sara
+2255,2026-09-16,C178,Chair,Furniture,North,3,246.72,0.0,740.16,458.9,281.26,Sara
+2256,2026-09-27,C266,Toner,Office Supplies,South,2,148.8,0.05,282.72,166.66,116.06,Sara
+2257,2026-09-18,C214,Phone,Electronics,North,3,704.1,0.0,2112.3,1563.1,549.2,Fatima
+2258,2026-09-25,C186,Headphones,Electronics,South,2,121.49,0.05,230.83,157.94,72.89,Ali
+2259,2026-09-04,C016,Paper Box,Office Supplies,East,2,75.99,0.05,144.38,72.95,71.43,Ali
+2260,2026-09-28,C207,Monitor,Electronics,South,2,304.96,0.05,579.42,439.14,140.28,Ayesha
+2261,2026-09-01,C011,Printer,Office Supplies,South,3,299.17,0.0,897.51,556.46,341.05,Ayesha
+2262,2026-09-23,C286,Paper Box,Office Supplies,South,2,74.82,0.05,142.16,71.83,70.33,Sara
+2263,2026-09-12,C250,Cabinet,Furniture,South,3,504.43,0.0,1513.29,998.77,514.52,Bilal
+2264,2026-09-22,C130,Laptop,Electronics,South,2,890.98,0.05,1692.86,1354.29,338.57,Bilal
+2265,2026-09-05,C240,Bookshelf,Furniture,East,2,402.15,0.05,764.08,514.75,249.33,Bilal
+2266,2026-09-26,C210,Monitor,Electronics,North,2,298.86,0.05,567.83,430.36,137.47,Ali
+2267,2026-09-25,C277,Headphones,Electronics,South,3,120.55,0.0,361.65,235.07,126.58,Sara
+2268,2026-09-09,C281,Laptop,Electronics,East,2,903.07,0.05,1715.83,1372.67,343.16,Bilal
+2269,2026-09-24,C245,Bookshelf,Furniture,East,3,395.81,0.0,1187.43,759.96,427.47,Sara
+2270,2026-09-18,C286,Phone,Electronics,South,2,713.05,0.05,1354.79,1055.31,299.48,Fatima
+2271,2026-09-08,C222,Toner,Office Supplies,East,3,148.59,0.0,445.77,249.63,196.14,Ali
+2272,2026-09-06,C197,Phone,Electronics,South,3,710.91,0.0,2132.73,1578.22,554.51,Fatima
+2273,2026-09-06,C241,Paper Box,Office Supplies,East,2,76.05,0.05,144.49,73.01,71.48,Ali
+2274,2026-09-22,C238,Bookshelf,Furniture,North,3,397.97,0.0,1193.91,764.1,429.81,Sara
+2275,2026-09-13,C080,Desk,Furniture,East,2,609.31,0.05,1157.69,828.66,329.03,Ali
+2276,2026-09-27,C253,Paper Box,Office Supplies,East,3,74.36,0.0,223.08,107.08,116.0,Sara
+2277,2026-09-19,C173,Headphones,Electronics,South,2,117.69,0.05,223.61,153.0,70.61,Ayesha
+2278,2026-09-18,C125,Chair,Furniture,South,3,245.33,0.0,735.99,456.31,279.68,Ayesha
+2279,2026-09-28,C218,Cabinet,Furniture,South,3,504.87,0.0,1514.61,999.64,514.97,Bilal
+2280,2026-09-25,C223,Desk,Furniture,East,3,592.19,0.0,1776.57,1208.07,568.5,Ayesha
+2281,2026-09-22,C031,Monitor,Electronics,East,3,303.41,0.0,910.23,655.37,254.86,Sara
+2282,2026-09-06,C214,Monitor,Electronics,South,3,296.22,0.0,888.66,639.84,248.82,Bilal
+2283,2026-09-24,C077,Paper Box,Office Supplies,North,3,76.24,0.0,228.72,109.79,118.93,Fatima
+2284,2026-09-12,C255,Cabinet,Furniture,East,3,509.24,0.0,1527.72,1008.3,519.42,Bilal
+2285,2026-09-18,C035,Toner,Office Supplies,East,2,150.76,0.05,286.44,168.85,117.59,Ayesha
+2286,2026-09-18,C019,Laptop,Electronics,South,2,915.08,0.05,1738.65,1390.92,347.73,Bilal
+2287,2026-09-07,C055,Laptop,Electronics,North,2,904.25,0.05,1718.07,1374.46,343.61,Ali
+2288,2026-09-27,C160,Printer,Office Supplies,North,2,300.67,0.05,571.27,372.83,198.44,Bilal
+2289,2026-09-08,C153,Headphones,Electronics,East,3,119.81,0.0,359.43,233.63,125.8,Ali
+2290,2026-09-13,C043,Desk,Furniture,North,2,593.34,0.05,1127.35,806.94,320.41,Ali
+2291,2026-09-25,C168,Cabinet,Furniture,South,3,490.04,0.0,1470.12,970.28,499.84,Bilal
+2292,2026-09-26,C288,Bookshelf,Furniture,North,3,404.79,0.0,1214.37,777.2,437.17,Fatima
+2293,2026-09-09,C037,Toner,Office Supplies,East,2,148.37,0.05,281.9,166.17,115.73,Ayesha
+2294,2026-09-20,C087,Chair,Furniture,East,3,253.97,0.0,761.91,472.38,289.53,Sara
+2295,2026-09-15,C200,Chair,Furniture,East,2,246.78,0.05,468.88,306.01,162.87,Ayesha
+2296,2026-09-26,C247,Cabinet,Furniture,South,2,496.86,0.05,944.03,655.86,288.17,Ayesha
+2297,2026-09-26,C235,Desk,Furniture,North,3,590.5,0.0,1771.5,1204.62,566.88,Bilal
+2298,2026-09-08,C051,Headphones,Electronics,East,2,119.26,0.05,226.59,155.04,71.55,Sara
+2299,2026-09-02,C104,Monitor,Electronics,South,3,304.82,0.0,914.46,658.41,256.05,Sara
+2300,2026-09-28,C262,Desk,Furniture,South,2,610.36,0.05,1159.68,830.09,329.59,Fatima
+2301,2026-09-18,C224,Phone,Electronics,North,3,711.26,0.0,2133.78,1579.0,554.78,Ayesha
+2302,2026-09-18,C049,Toner,Office Supplies,North,3,149.52,0.0,448.56,251.19,197.37,Fatima
+2303,2026-09-01,C009,Bookshelf,Furniture,South,2,392.38,0.05,745.52,502.25,243.27,Sara
+2304,2026-09-03,C005,Laptop,Electronics,South,3,909.43,0.0,2728.29,2073.5,654.79,Ahmed
+2305,2026-09-05,C297,Paper Box,Office Supplies,North,2,73.67,0.05,139.97,70.72,69.25,Ali
+2306,2026-09-21,C251,Laptop,Electronics,East,2,903.14,0.05,1715.97,1372.77,343.2,Sara
+2307,2026-09-22,C249,Desk,Furniture,East,3,604.98,0.0,1814.94,1234.16,580.78,Ayesha
+2308,2026-09-01,C174,Bookshelf,Furniture,North,3,399.22,0.0,1197.66,766.5,431.16,Ali
+2309,2026-09-04,C086,Chair,Furniture,East,2,245.88,0.05,467.17,304.89,162.28,Bilal
+2310,2026-09-22,C182,Cabinet,Furniture,South,2,504.21,0.05,958.0,665.56,292.44,Ahmed
+2311,2026-09-15,C012,Headphones,Electronics,South,2,120.99,0.05,229.88,157.29,72.59,Fatima
+2312,2026-09-14,C137,Chair,Furniture,South,2,249.16,0.05,473.4,308.96,164.44,Ahmed
+2313,2026-09-19,C032,Chair,Furniture,North,3,251.68,0.0,755.04,468.12,286.92,Bilal
+2314,2026-09-23,C022,Printer,Office Supplies,South,2,305.22,0.05,579.92,378.47,201.45,Ayesha
+2315,2026-09-19,C103,Chair,Furniture,South,2,254.78,0.05,484.08,315.93,168.15,Ahmed
+2316,2026-09-26,C292,Desk,Furniture,East,2,596.87,0.05,1134.05,811.74,322.31,Bilal
+2317,2026-09-20,C046,Headphones,Electronics,East,2,120.13,0.05,228.25,156.17,72.08,Fatima
+2318,2026-09-18,C026,Phone,Electronics,South,2,690.12,0.05,1311.23,1021.38,289.85,Ali
+2319,2026-09-27,C159,Paper Box,Office Supplies,North,3,73.68,0.0,221.04,106.1,114.94,Ahmed
+2320,2026-09-27,C198,Phone,Electronics,North,3,700.37,0.0,2101.11,1554.82,546.29,Ahmed
+2321,2026-09-24,C254,Cabinet,Furniture,South,2,499.45,0.05,948.95,659.27,289.68,Bilal
+2322,2026-09-17,C241,Stationery Kit,Office Supplies,East,3,99.24,0.0,297.72,148.86,148.86,Sara
+2323,2026-09-27,C253,Laptop,Electronics,North,3,903.14,0.0,2709.42,2059.16,650.26,Fatima
+2324,2026-09-11,C230,Chair,Furniture,East,2,254.96,0.05,484.42,316.15,168.27,Ahmed
+2325,2026-09-21,C238,Paper Box,Office Supplies,South,2,76.39,0.05,145.14,73.33,71.81,Ali
+2326,2026-09-05,C290,Cabinet,Furniture,North,2,492.57,0.05,935.88,650.19,285.69,Sara
+2327,2026-09-02,C002,Phone,Electronics,East,2,695.76,0.05,1321.94,1029.72,292.22,Ahmed
+2328,2026-09-04,C285,Laptop,Electronics,East,2,897.47,0.05,1705.19,1364.15,341.04,Fatima
+2329,2026-09-12,C089,Phone,Electronics,North,3,698.03,0.0,2094.09,1549.63,544.46,Ahmed
+2330,2026-09-01,C056,Headphones,Electronics,North,3,121.66,0.0,364.98,237.24,127.74,Ayesha
+2331,2026-09-02,C090,Phone,Electronics,East,3,693.56,0.0,2080.68,1539.7,540.98,Ahmed
+2332,2026-09-28,C047,Chair,Furniture,South,2,251.04,0.05,476.98,311.29,165.69,Bilal
+2333,2026-09-20,C193,Printer,Office Supplies,East,3,299.82,0.0,899.46,557.67,341.79,Ahmed
+2334,2026-09-22,C003,Bookshelf,Furniture,East,2,403.42,0.05,766.5,516.38,250.12,Fatima
+2335,2026-09-02,C048,Chair,Furniture,North,3,249.72,0.0,749.16,464.48,284.68,Ali
+2336,2026-09-18,C086,Desk,Furniture,North,3,598.22,0.0,1794.66,1220.37,574.29,Ayesha
+2337,2026-09-10,C220,Monitor,Electronics,North,2,302.2,0.05,574.18,435.17,139.01,Fatima

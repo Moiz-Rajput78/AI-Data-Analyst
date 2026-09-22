@@ -1,0 +1,29 @@
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated output
+output/charts/*.png
+output/reports/*.md
+output/reports/*.txt
+
+# Keep output directories in Git
+!output/charts/.gitkeep
+!output/reports/.gitkeep
