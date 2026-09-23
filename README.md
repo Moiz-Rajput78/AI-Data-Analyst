@@ -1,5 +1,9 @@
 # AI Data Analyst Agent
 
+## Live Demo
+
+[Open AI Data Analyst Agent](https://rexyai-data-analyst.streamlit.app/)
+
 An agentic AI data analysis system that analyzes a CSV dataset using a Qwen Small Language Model through Hugging Face, dynamically selects analytical tools, executes Python/Pandas operations, generates charts, and produces evidence-based reports.
 
 The project demonstrates:
