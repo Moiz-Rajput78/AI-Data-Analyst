@@ -2,48 +2,32 @@
 
 ## 1. Introduction
 
-The AI Data Analyst Agent is an agentic data-analysis system developed to demonstrate how a Small Language Model can work together with structured analytical tools to answer business questions from a CSV dataset.
+The AI Data Analyst Agent is an agentic data-analysis system designed to answer business questions from a structured CSV dataset using a language model, analytical tools, Python, Pandas, and visualization.
 
-The project focuses on a fictional sales dataset containing order, product, category, region, pricing, revenue, cost, profit, and salesperson information.
+The main objective of the project is not to build a fixed dashboard or a predefined analytics pipeline. Instead, the system is designed so that the language model acts as an analyst and decides what information is needed, which tools should be called, whether additional analysis is necessary, and when enough evidence has been collected to produce a final answer.
 
-The primary goal was not to build a fixed dashboard or a predefined analytics pipeline. Instead, the system was designed so that the AI model decides which analytical operation should be performed according to the user's question.
+The project demonstrates the following main concepts:
 
-The project combines:
-
-- Qwen Small Language Model integration
-- Hugging Face Inference Providers
-- dynamic tool calling
-- Pandas-based analysis
-- statistical functions
-- restricted Python execution
+- language-model integration
+- structured tool calling
+- dynamic agent loops
+- CSV data analysis
+- Pandas-based numerical computation
+- controlled Python execution
 - chart generation
-- evidence validation
+- evidence-based reasoning
+- output validation
 - automated testing
 - report generation
+- deployment through Streamlit
 
-The central architectural principle is that the language model acts as the analyst and orchestrator, while Python and Pandas perform numerical calculations.
-
----
-
-## 2. Dataset
-
-A realistic fictional sales dataset was created for this project.
-
-The dataset contains 1,337 records and 13 columns.
-
-The fields are:
+The central design principle is:
 
 ```text
-order_id
-order_date
-customer_id
-product
-category
-region
-quantity
-unit_price
-discount
-revenue
-cost
-profit
-salesperson
+Language Model = Analyst / Orchestrator
+
+Python + Pandas = Calculator
+
+Tools = Controlled analytical capabilities
+
+Agent Loop = Dynamic decision-making mechanism
