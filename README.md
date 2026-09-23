@@ -1,34 +1,40 @@
 # AI Data Analyst Agent
 
+An agentic AI data-analysis system that analyzes a CSV dataset using **Qwen**, **Python**, **Pandas**, and dynamic tool calling.
+
+The system allows a user to ask analytical business questions in natural language. Instead of following a fixed workflow, the AI model decides which tools are required, executes them, inspects their results, performs additional analysis when necessary, and produces an evidence-based report.
+
 ## Live Demo
 
 [Open AI Data Analyst Agent](https://rexyai-data-analyst.streamlit.app/)
 
-An agentic AI data analysis system that analyzes a CSV dataset using a Qwen Small Language Model through Hugging Face, dynamically selects analytical tools, executes Python/Pandas operations, generates charts, and produces evidence-based reports.
+## GitHub Repository
 
-The project demonstrates:
-
-- Small Language Model integration
-- Dynamic tool calling
-- Multi-step agent reasoning
-- CSV data analysis
-- Pandas-based computation
-- Restricted Python execution
-- Data visualization
-- Evidence validation
-- Markdown report generation
-- Automated testing
-- Local analytical evaluation
+[AI-Data-Analyst](https://github.com/Moiz-Rajput78/AI-Data-Analyst)
 
 ---
 
-# Project Objective
+## Project Objective
 
-The purpose of this project is to build an AI Data Analyst Agent capable of answering business questions about a sales dataset.
+The objective of this project is to build an **AI Data Analyst Agent** capable of analyzing a realistic sales CSV dataset.
 
-Instead of following a fixed analysis pipeline, the AI model acts as an analyst and decides which analytical tool should be used next.
+The main concepts demonstrated are:
 
-Example question:
+- Small Language Model / open-model integration
+- Tool calling
+- Dynamic agent loop
+- Data analysis
+- Statistical computation
+- Restricted Python execution
+- Data visualization
+- Grounded reasoning
+- Evidence validation
+- Automatic report generation
+
+The main architectural principle is:
 
 ```text
-Why did sales decrease last month?
+Qwen = Analyst / Orchestrator
+Python + Pandas = Calculator
+Tools = Controlled analytical capabilities
+Agent Loop = Decision-making process
