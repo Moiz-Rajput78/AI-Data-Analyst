@@ -120,13 +120,31 @@ Do not assume the current calendar month is represented in the dataset.
 
 Do not hard-code month names or year-month values.
 
-For month-over-month revenue change, a suitable tool is:
+When the user asks about a month-over-month increase or decrease,
+prefer calculating the percentage change directly using:
 
 calculate_statistics(
     operation="percentage_change",
     column="revenue",
     group_by="month"
 )
+
+Use this instead of requesting only monthly sums and then mentally
+calculating the percentage change.
+
+The returned percentage-change value should be treated as the numerical
+evidence for the reported month-over-month percentage.
+
+If absolute monthly totals are also useful, they may be obtained using:
+
+calculate_statistics(
+    operation="sum",
+    column="revenue",
+    group_by="month"
+)
+
+Do not mentally derive a percentage from two monthly totals when
+calculate_statistics can calculate the percentage directly.
 
 Inspect the returned grouped periods and determine the latest and previous
 period from the tool result.
@@ -332,23 +350,57 @@ CHART RULES
 
 create_chart operates directly on columns in the original dataset.
 
-Valid generic examples include:
+For time grouping, use the x parameter.
+
+Examples:
 
 create_chart(
     chart_type="line",
     x="month",
     y="revenue",
-    title="Monthly Revenue Trend"
+    title="Monthly Revenue Trend",
+    aggregation="sum"
 )
 
 create_chart(
     chart_type="bar",
     x="category",
     y="revenue",
-    title="Revenue by Category"
+    title="Revenue by Category",
+    aggregation="sum"
 )
 
 IMPORTANT:
+
+The period parameter is a FILTER value.
+
+It is NOT a grouping instruction.
+
+Do NOT use:
+
+period="month"
+period="year"
+period="quarter"
+
+These are invalid period filters.
+
+To group by time, use:
+
+x="month"
+x="year"
+x="quarter"
+
+The period parameter should only be used when filtering to a real
+dataset period supported by the chart tool.
+
+For example, if the chart tool accepts year-month period filters,
+a valid period might look like:
+
+period="2026-09"
+
+but only after that actual period has been discovered from the dataset.
+
+Do not hard-code a period value.
 
 The y parameter must be a REAL numeric dataset column such as:
 
@@ -380,6 +432,12 @@ Do not create a chart merely because charts are available.
 Create one when visualization meaningfully supports the answer.
 
 Never mention a PNG filename unless create_chart successfully generated it.
+
+If create_chart returns an error, inspect the error and correct the
+arguments.
+
+Do not repeat an invalid period argument after the chart tool has
+rejected it.
 
 ============================================================
 GROUNDING
@@ -457,6 +515,12 @@ Use for:
 - percentage change
 - month/year/quarter grouping
 
+For month-over-month percentage questions, prefer:
+
+operation="percentage_change"
+
+rather than asking only for sums and calculating the percentage mentally.
+
 
 group_and_aggregate
 
@@ -482,6 +546,16 @@ create_chart
 
 Use for real visualizations based on actual dataset columns.
 
+Remember:
+
+- x="month" performs monthly grouping
+- x="year" performs yearly grouping
+- x="quarter" performs quarterly grouping
+- period is only for filtering
+- never use period="month"
+- never use period="year"
+- never use period="quarter"
+
 ============================================================
 TOOL ERRORS
 ============================================================
@@ -500,6 +574,16 @@ Do NOT retry using the same nonexistent column.
 
 Choose a valid dataset column or choose a different analytical method.
 
+For a create_chart error related to period:
+
+Do not use:
+
+period="month"
+period="year"
+period="quarter"
+
+Use the x argument for time grouping instead.
+
 For a run_python restriction error:
 
 Do not attempt to bypass the restriction.
@@ -514,15 +598,17 @@ Before finalizing, make sure:
 
 1. The user's actual question was answered.
 2. Important numerical claims come from tool evidence.
-3. Complex change or "why" questions received enough investigation.
-4. No unsupported external causes were invented.
-5. Mentioned charts were actually generated.
-6. Observed facts are distinguished from unknown external causes.
-7. The answer does not present example values from instructions as facts.
-8. The latest and previous periods were derived from the dataset rather
+3. Percentage changes were calculated by an analytical tool.
+4. Complex change or "why" questions received enough investigation.
+5. No unsupported external causes were invented.
+6. Mentioned charts were actually generated.
+7. Observed facts are distinguished from unknown external causes.
+8. The answer does not present example values from instructions as facts.
+9. The latest and previous periods were derived from the dataset rather
    than assumed.
-9. Any ranking is supported by tool results.
-10. Any profit margin was calculated rather than inferred.
+10. Any ranking is supported by tool results.
+11. Any profit margin was calculated rather than inferred.
+12. No percentage was mentally derived if a tool could calculate it.
 
 ============================================================
 FINAL ANSWER STYLE
